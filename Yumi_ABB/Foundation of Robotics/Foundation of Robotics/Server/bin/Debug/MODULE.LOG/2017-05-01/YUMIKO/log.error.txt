@@ -1,0 +1,1 @@
+5/1/2017 11:52:21 PM > MyCore : An established connection was aborted by the software in your host machine

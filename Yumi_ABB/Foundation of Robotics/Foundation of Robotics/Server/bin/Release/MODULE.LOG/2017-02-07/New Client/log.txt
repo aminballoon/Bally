@@ -1,0 +1,175 @@
+07-Feb-2017 15:43:16 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:43:16 > Create communication thread
+07-Feb-2017 15:43:16 > Start thread 3
+07-Feb-2017 15:43:16 > Start Communication Thread
+07-Feb-2017 15:50:29 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:50:29 > Create communication thread
+07-Feb-2017 15:50:29 > Start thread 4
+07-Feb-2017 15:50:29 > Start Communication Thread
+07-Feb-2017 15:51:52 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:51:52 > Create communication thread
+07-Feb-2017 15:51:52 > Start thread 5
+07-Feb-2017 15:51:52 > Start Communication Thread
+07-Feb-2017 15:53:04 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:53:04 > Create communication thread
+07-Feb-2017 15:53:04 > Start thread 6
+07-Feb-2017 15:53:04 > Start Communication Thread
+07-Feb-2017 15:53:07 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:53:07 > Create communication thread
+07-Feb-2017 15:53:07 > Start thread 7
+07-Feb-2017 15:53:07 > Start Communication Thread
+07-Feb-2017 15:53:09 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:53:09 > Create communication thread
+07-Feb-2017 15:53:09 > Start thread 8
+07-Feb-2017 15:53:09 > Start Communication Thread
+07-Feb-2017 15:53:12 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:53:12 > Create communication thread
+07-Feb-2017 15:53:12 > Start thread 9
+07-Feb-2017 15:53:12 > Start Communication Thread
+07-Feb-2017 15:53:57 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:53:57 > Create communication thread
+07-Feb-2017 15:53:57 > Start thread 10
+07-Feb-2017 15:53:57 > Start Communication Thread
+07-Feb-2017 15:57:55 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:57:55 > Create communication thread
+07-Feb-2017 15:57:55 > Start thread 11
+07-Feb-2017 15:57:55 > Start Communication Thread
+07-Feb-2017 15:58:10 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:58:10 > Create communication thread
+07-Feb-2017 15:58:10 > Start thread 12
+07-Feb-2017 15:58:10 > Start Communication Thread
+07-Feb-2017 15:58:19 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:58:19 > Create communication thread
+07-Feb-2017 15:58:19 > Start thread 13
+07-Feb-2017 15:58:19 > Start Communication Thread
+07-Feb-2017 15:59:23 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:59:23 > Create communication thread
+07-Feb-2017 15:59:23 > Start thread 14
+07-Feb-2017 15:59:23 > Start Communication Thread
+07-Feb-2017 16:04:27 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:04:27 > Create communication thread
+07-Feb-2017 16:04:27 > Start thread 15
+07-Feb-2017 16:04:27 > Start Communication Thread
+07-Feb-2017 16:06:51 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:06:51 > Create communication thread
+07-Feb-2017 16:06:51 > Start thread 16
+07-Feb-2017 16:06:51 > Start Communication Thread
+07-Feb-2017 16:08:09 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:09 > Create communication thread
+07-Feb-2017 16:08:09 > Start thread 17
+07-Feb-2017 16:08:09 > Start Communication Thread
+07-Feb-2017 16:08:14 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:14 > Create communication thread
+07-Feb-2017 16:08:14 > Start thread 8
+07-Feb-2017 16:08:14 > Start Communication Thread
+07-Feb-2017 16:08:17 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:17 > Create communication thread
+07-Feb-2017 16:08:17 > Start thread 7
+07-Feb-2017 16:08:17 > Start Communication Thread
+07-Feb-2017 16:08:17 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:17 > Create communication thread
+07-Feb-2017 16:08:17 > Start thread 6
+07-Feb-2017 16:08:17 > Start Communication Thread
+07-Feb-2017 16:08:18 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:18 > Create communication thread
+07-Feb-2017 16:08:18 > Start thread 5
+07-Feb-2017 16:08:18 > Start Communication Thread
+07-Feb-2017 16:08:18 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:18 > Create communication thread
+07-Feb-2017 16:08:18 > Start thread 4
+07-Feb-2017 16:08:18 > Start Communication Thread
+07-Feb-2017 16:08:18 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:18 > Create communication thread
+07-Feb-2017 16:08:18 > Start thread 3
+07-Feb-2017 16:08:18 > Start Communication Thread
+07-Feb-2017 16:08:18 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:18 > Create communication thread
+07-Feb-2017 16:08:18 > Start thread 18
+07-Feb-2017 16:08:18 > Start Communication Thread
+07-Feb-2017 16:08:18 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:08:18 > Create communication thread
+07-Feb-2017 16:08:18 > Start thread 19
+07-Feb-2017 16:08:18 > Start Communication Thread
+07-Feb-2017 16:09:14 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:09:14 > Create communication thread
+07-Feb-2017 16:09:14 > Start thread 3
+07-Feb-2017 16:09:14 > Start Communication Thread
+07-Feb-2017 16:09:22 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 16:09:22 > Create communication thread
+07-Feb-2017 16:09:22 > Start thread 4
+07-Feb-2017 16:09:22 > Start Communication Thread

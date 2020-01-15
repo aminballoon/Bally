@@ -1,0 +1,12 @@
+5/3/2017 6:45:24 PM > Connected
+5/3/2017 6:57:08 PM > Disconnected
+5/3/2017 6:58:08 PM > SendToServer : An existing connection was forcibly closed by the remote host
+5/3/2017 6:58:08 PM > STOP CORE
+5/3/2017 6:58:09 PM > === [CLOSING] ===
+5/3/2017 6:58:09 PM > STOP CORE
+5/3/2017 6:58:34 PM > Connected
+5/3/2017 7:04:42 PM > SendToServer : An existing connection was forcibly closed by the remote host
+5/3/2017 7:04:42 PM > STOP CORE
+5/3/2017 7:04:42 PM > === [CLOSING] ===
+5/3/2017 7:04:42 PM > STOP CORE
+5/3/2017 7:31:01 PM > Connected

@@ -1,0 +1,152 @@
+5/1/2017 11:41:47 AM > Register as A
+5/1/2017 11:45:17 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:45:17 AM > 127.0.0.1:7599 force shutting down sending and receiving
+5/1/2017 11:45:17 AM > 127.0.0.1:7599 force closing connection
+5/1/2017 11:45:18 AM > End Communication Thread
+5/1/2017 12:32:15 PM > Register as A
+5/1/2017 12:33:50 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 12:33:50 PM > 127.0.0.1:8399 force shutting down sending and receiving
+5/1/2017 12:33:50 PM > 127.0.0.1:8399 force closing connection
+5/1/2017 12:33:50 PM > End Communication Thread
+5/1/2017 12:34:07 PM > Register as A
+5/1/2017 12:38:23 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 12:38:23 PM > 127.0.0.1:8474 force shutting down sending and receiving
+5/1/2017 12:38:23 PM > 127.0.0.1:8474 force closing connection
+5/1/2017 12:38:23 PM > End Communication Thread
+5/1/2017 12:58:16 PM > Register as A
+5/1/2017 1:00:28 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 1:00:28 PM > 127.0.0.1:8817 force shutting down sending and receiving
+5/1/2017 1:00:28 PM > 127.0.0.1:8817 force closing connection
+5/1/2017 1:00:28 PM > End Communication Thread
+5/1/2017 1:04:09 PM > Register as A
+5/1/2017 1:05:12 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 1:05:12 PM > 127.0.0.1:8923 force shutting down sending and receiving
+5/1/2017 1:05:12 PM > 127.0.0.1:8923 force closing connection
+5/1/2017 1:05:12 PM > End Communication Thread
+5/1/2017 1:05:33 PM > Register as A
+5/1/2017 1:17:05 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 1:17:05 PM > 127.0.0.1:8986 force shutting down sending and receiving
+5/1/2017 1:17:05 PM > 127.0.0.1:8986 force closing connection
+5/1/2017 1:17:06 PM > End Communication Thread
+5/1/2017 1:17:16 PM > Register as A
+5/1/2017 1:17:42 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 1:17:42 PM > 127.0.0.1:9140 force shutting down sending and receiving
+5/1/2017 1:17:42 PM > 127.0.0.1:9140 force closing connection
+5/1/2017 1:17:42 PM > End Communication Thread
+5/1/2017 3:52:32 PM > Register as A
+5/1/2017 3:53:03 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 3:53:03 PM > 127.0.0.1:31902 force shutting down sending and receiving
+5/1/2017 3:53:03 PM > 127.0.0.1:31902 force closing connection
+5/1/2017 3:53:03 PM > End Communication Thread
+5/1/2017 4:05:25 PM > Register as A
+5/1/2017 4:05:50 PM > Register as A
+5/1/2017 4:09:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:09:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:09:27 PM > 127.0.0.1:35512 force shutting down sending and receiving
+5/1/2017 4:09:28 PM > 127.0.0.1:35512 force closing connection
+5/1/2017 4:09:28 PM > End Communication Thread
+5/1/2017 4:09:28 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:09:28 PM > 127.0.0.1:35631 force shutting down sending and receiving
+5/1/2017 4:09:28 PM > 127.0.0.1:35631 force closing connection
+5/1/2017 4:09:28 PM > End Communication Thread
+5/1/2017 4:09:34 PM > Register as A
+5/1/2017 4:09:48 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:09:49 PM > 127.0.0.1:36714 force shutting down sending and receiving
+5/1/2017 4:09:49 PM > 127.0.0.1:36714 force closing connection
+5/1/2017 4:09:49 PM > End Communication Thread
+5/1/2017 4:09:54 PM > Register as A
+5/1/2017 4:10:54 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:10:54 PM > 127.0.0.1:36854 force shutting down sending and receiving
+5/1/2017 4:10:54 PM > 127.0.0.1:36854 force closing connection
+5/1/2017 4:10:54 PM > End Communication Thread
+5/1/2017 4:11:01 PM > Register as A
+5/1/2017 4:13:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:13:27 PM > 127.0.0.1:37207 force shutting down sending and receiving
+5/1/2017 4:13:27 PM > 127.0.0.1:37207 force closing connection
+5/1/2017 4:13:27 PM > End Communication Thread
+5/1/2017 4:13:54 PM > Register as A
+5/1/2017 4:14:13 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:14:13 PM > 127.0.0.1:38064 force shutting down sending and receiving
+5/1/2017 4:14:13 PM > 127.0.0.1:38064 force closing connection
+5/1/2017 4:14:13 PM > End Communication Thread
+5/1/2017 4:14:39 PM > Register as A
+5/1/2017 4:18:43 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:18:43 PM > 127.0.0.1:38329 force shutting down sending and receiving
+5/1/2017 4:18:43 PM > 127.0.0.1:38329 force closing connection
+5/1/2017 4:18:43 PM > End Communication Thread
+5/1/2017 4:22:36 PM > Register as A
+5/1/2017 4:57:15 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 4:57:15 PM > 127.0.0.1:40593 force shutting down sending and receiving
+5/1/2017 4:57:15 PM > 127.0.0.1:40593 force closing connection
+5/1/2017 4:57:15 PM > End Communication Thread
+5/1/2017 4:57:54 PM > Register as A
+5/1/2017 5:00:13 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 5:00:13 PM > 127.0.0.1:50508 force shutting down sending and receiving
+5/1/2017 5:00:13 PM > 127.0.0.1:50508 force closing connection
+5/1/2017 5:00:13 PM > End Communication Thread
+5/1/2017 5:00:43 PM > Register as A
+5/1/2017 5:04:12 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 5:04:12 PM > 127.0.0.1:51346 force shutting down sending and receiving
+5/1/2017 5:04:12 PM > 127.0.0.1:51346 force closing connection
+5/1/2017 5:04:12 PM > End Communication Thread
+5/1/2017 5:57:44 PM > Register as A
+5/1/2017 5:58:21 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 5:58:21 PM > 127.0.0.1:3046 force shutting down sending and receiving
+5/1/2017 5:58:21 PM > 127.0.0.1:3046 force closing connection
+5/1/2017 5:58:21 PM > End Communication Thread
+5/1/2017 5:58:28 PM > Register as A
+5/1/2017 5:59:56 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 5:59:56 PM > 127.0.0.1:3260 force shutting down sending and receiving
+5/1/2017 5:59:56 PM > 127.0.0.1:3260 force closing connection
+5/1/2017 5:59:56 PM > End Communication Thread
+5/1/2017 6:00:47 PM > Register as A
+5/1/2017 6:01:19 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 6:01:19 PM > 127.0.0.1:3835 force shutting down sending and receiving
+5/1/2017 6:01:19 PM > 127.0.0.1:3835 force closing connection
+5/1/2017 6:01:19 PM > End Communication Thread
+5/1/2017 6:01:39 PM > Register as A
+5/1/2017 6:05:06 PM > 127.0.0.1:4087 shutting down sending and receiving
+5/1/2017 6:05:06 PM > 127.0.0.1:4087 closing connection
+5/1/2017 6:05:06 PM > End Communication Thread
+5/1/2017 6:05:19 PM > Register as A
+5/1/2017 6:11:32 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 6:11:32 PM > 127.0.0.1:4963 force shutting down sending and receiving
+5/1/2017 6:11:32 PM > 127.0.0.1:4963 force closing connection
+5/1/2017 6:11:32 PM > End Communication Thread
+5/1/2017 9:43:31 PM > Register as A
+5/1/2017 9:44:57 PM > 172.20.10.9:56100 shutting down sending and receiving
+5/1/2017 9:44:57 PM > 172.20.10.9:56100 closing connection
+5/1/2017 9:44:57 PM > End Communication Thread
+5/1/2017 10:12:55 PM > Register as A
+5/1/2017 10:12:57 PM > 172.20.10.9:63219 shutting down sending and receiving
+5/1/2017 10:12:57 PM > 172.20.10.9:63219 closing connection
+5/1/2017 10:12:57 PM > End Communication Thread
+5/1/2017 10:48:33 PM > Register as A
+5/1/2017 10:48:34 PM > 172.20.10.9:5663 shutting down sending and receiving
+5/1/2017 10:48:34 PM > 172.20.10.9:5663 closing connection
+5/1/2017 10:48:34 PM > End Communication Thread
+5/1/2017 10:57:38 PM > Register as A
+5/1/2017 10:57:42 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:57:42 PM > 172.20.10.6:4760 force shutting down sending and receiving
+5/1/2017 10:57:42 PM > 172.20.10.6:4760 force closing connection
+5/1/2017 10:57:42 PM > End Communication Thread
+5/1/2017 10:59:44 PM > Register as A
+5/1/2017 10:59:45 PM > Register as A
+5/1/2017 10:59:52 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:59:52 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:59:52 PM > 172.20.10.6:4878 force shutting down sending and receiving
+5/1/2017 10:59:52 PM > 172.20.10.6:4878 force closing connection
+5/1/2017 10:59:52 PM > End Communication Thread
+5/1/2017 10:59:52 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:59:52 PM > 172.20.10.6:4879 force shutting down sending and receiving
+5/1/2017 10:59:52 PM > 172.20.10.6:4879 force closing connection
+5/1/2017 10:59:52 PM > End Communication Thread
+5/1/2017 11:00:15 PM > Register as A
+5/1/2017 11:00:20 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:00:20 PM > 172.20.10.6:4978 force shutting down sending and receiving
+5/1/2017 11:00:20 PM > 172.20.10.6:4978 force closing connection
+5/1/2017 11:00:20 PM > End Communication Thread
+5/1/2017 11:53:43 PM > Register as A
+5/1/2017 11:53:45 PM > 192.168.1.102:17261 shutting down sending and receiving
+5/1/2017 11:53:45 PM > 192.168.1.102:17261 closing connection
+5/1/2017 11:53:45 PM > End Communication Thread

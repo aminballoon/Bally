@@ -1,0 +1,32 @@
+1/12/2020 7:01:27 PM > Register as YUMIKO
+1/12/2020 7:05:28 PM > Register as YUMIKO
+1/12/2020 7:09:01 PM > Register as YUMIKO
+1/12/2020 7:09:51 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 7:09:51 PM > 127.0.0.1:52590 force shutting down sending and receiving
+1/12/2020 7:09:51 PM > 127.0.0.1:52590 force closing connection
+1/12/2020 7:09:51 PM > End Communication Thread
+1/12/2020 7:14:45 PM > Register as YUMIKO
+1/12/2020 7:15:36 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 7:15:36 PM > 127.0.0.1:52602 force shutting down sending and receiving
+1/12/2020 7:15:36 PM > 127.0.0.1:52602 force closing connection
+1/12/2020 7:15:36 PM > End Communication Thread
+1/12/2020 7:15:43 PM > Register as YUMIKO
+1/12/2020 7:42:48 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 7:42:48 PM > 127.0.0.1:52606 force shutting down sending and receiving
+1/12/2020 7:42:48 PM > 127.0.0.1:52606 force closing connection
+1/12/2020 7:42:48 PM > End Communication Thread
+1/12/2020 7:42:53 PM > Register as YUMIKO
+1/12/2020 7:44:03 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 7:44:03 PM > 127.0.0.1:52703 force shutting down sending and receiving
+1/12/2020 7:44:03 PM > 127.0.0.1:52703 force closing connection
+1/12/2020 7:44:03 PM > End Communication Thread
+1/12/2020 7:44:07 PM > Register as YUMIKO
+1/12/2020 7:46:19 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 7:46:19 PM > 127.0.0.1:52714 force shutting down sending and receiving
+1/12/2020 7:46:19 PM > 127.0.0.1:52714 force closing connection
+1/12/2020 7:46:19 PM > End Communication Thread
+1/12/2020 7:46:26 PM > Register as YUMIKO
+1/12/2020 8:28:49 PM > MyCore : An existing connection was forcibly closed by the remote host
+1/12/2020 8:28:49 PM > 127.0.0.1:52723 force shutting down sending and receiving
+1/12/2020 8:28:49 PM > 127.0.0.1:52723 force closing connection
+1/12/2020 8:28:49 PM > End Communication Thread

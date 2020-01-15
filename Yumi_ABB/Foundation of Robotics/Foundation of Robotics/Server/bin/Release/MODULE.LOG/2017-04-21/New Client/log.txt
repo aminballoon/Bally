@@ -1,0 +1,21 @@
+4/21/2017 5:52:14 PM > 
+==================================
+Initialize New Client
+==================================
+4/21/2017 5:52:14 PM > Create communication thread
+4/21/2017 5:52:14 PM > Start thread 3
+4/21/2017 5:52:14 PM > Start Communication Thread
+4/21/2017 5:54:58 PM > 
+==================================
+Initialize New Client
+==================================
+4/21/2017 5:54:58 PM > Create communication thread
+4/21/2017 5:54:58 PM > Start thread 3
+4/21/2017 5:54:58 PM > Start Communication Thread
+4/21/2017 5:55:25 PM > 
+==================================
+Initialize New Client
+==================================
+4/21/2017 5:55:25 PM > Create communication thread
+4/21/2017 5:55:25 PM > Start thread 4
+4/21/2017 5:55:25 PM > Start Communication Thread

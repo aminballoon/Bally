@@ -1,0 +1,16 @@
+1/13/2020 8:07:26 AM > 
+==================================
+InitializeSERVER
+==================================
+1/13/2020 8:07:26 AM > Listening port 1150
+1/13/2020 8:07:26 AM > Wait new incomming connection ...
+1/13/2020 8:07:37 AM > Accept new incomming connection ...
+1/13/2020 8:07:37 AM > Add client to list
+1/13/2020 8:07:37 AM > Mapping client event
+1/13/2020 8:07:37 AM > Wait new incomming connection ...
+1/13/2020 8:09:25 AM > MyServer_eventOnDisconnected : YUMIKO
+1/13/2020 8:09:25 AM > Remove client from list
+1/13/2020 8:09:28 AM > Accept new incomming connection ...
+1/13/2020 8:09:28 AM > Add client to list
+1/13/2020 8:09:28 AM > Mapping client event
+1/13/2020 8:09:28 AM > Wait new incomming connection ...

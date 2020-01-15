@@ -1,0 +1,6 @@
+4/21/2017 5:52:14 PM > Register as A
+4/21/2017 5:55:25 PM > Register as A
+4/21/2017 5:58:43 PM > MyCore : An existing connection was forcibly closed by the remote host
+4/21/2017 5:58:43 PM > 127.0.0.1:8174 force shutting down sending and receiving
+4/21/2017 5:58:43 PM > 127.0.0.1:8174 force closing connection
+4/21/2017 5:58:43 PM > End Communication Thread

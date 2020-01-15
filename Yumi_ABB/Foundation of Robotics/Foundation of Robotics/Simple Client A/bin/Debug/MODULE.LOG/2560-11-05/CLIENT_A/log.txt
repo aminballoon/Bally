@@ -1,0 +1,4 @@
+5/11/2560 18:27:06 > Initialize
+5/11/2560 18:27:06 > START CORE
+5/11/2560 18:27:06 > [Core Multimedia BEGIN]
+5/11/2560 18:27:06 > Core LOOP

@@ -1,0 +1,12 @@
+2/11/2560 19:46:00 > [Core Multimedia BEGIN]
+2/11/2560 19:46:00 > Core LOOP
+2/11/2560 19:48:03 > [Core Multimedia BEGIN]
+2/11/2560 19:48:03 > Core LOOP
+2/11/2560 19:48:05 > Connected
+2/11/2560 19:50:14 > Disconnected
+2/11/2560 19:50:21 > Connected
+2/11/2560 19:53:34 > Disconnected
+2/11/2560 19:53:43 > Disconnected
+2/11/2560 19:55:14 > [Core Multimedia BEGIN]
+2/11/2560 19:55:14 > Core LOOP
+2/11/2560 19:55:23 > Connected

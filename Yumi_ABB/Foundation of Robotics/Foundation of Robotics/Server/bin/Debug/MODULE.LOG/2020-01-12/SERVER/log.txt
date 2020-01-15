@@ -1,0 +1,68 @@
+1/12/2020 6:57:02 PM > 
+==================================
+InitializeSERVER
+==================================
+1/12/2020 6:57:02 PM > Listening port 1150
+1/12/2020 6:57:02 PM > Wait new incomming connection ...
+1/12/2020 6:57:16 PM > 
+==================================
+InitializeSERVER
+==================================
+1/12/2020 6:57:16 PM > Listening port 1150
+1/12/2020 6:57:16 PM > Wait new incomming connection ...
+1/12/2020 7:01:27 PM > Accept new incomming connection ...
+1/12/2020 7:01:27 PM > Add client to list
+1/12/2020 7:01:27 PM > Mapping client event
+1/12/2020 7:01:27 PM > Wait new incomming connection ...
+1/12/2020 7:05:18 PM > 
+==================================
+InitializeSERVER
+==================================
+1/12/2020 7:05:18 PM > Listening port 1150
+1/12/2020 7:05:18 PM > Wait new incomming connection ...
+1/12/2020 7:05:28 PM > Accept new incomming connection ...
+1/12/2020 7:05:28 PM > Add client to list
+1/12/2020 7:05:28 PM > Mapping client event
+1/12/2020 7:05:28 PM > Wait new incomming connection ...
+1/12/2020 7:08:49 PM > 
+==================================
+InitializeSERVER
+==================================
+1/12/2020 7:08:49 PM > Listening port 1150
+1/12/2020 7:08:49 PM > Wait new incomming connection ...
+1/12/2020 7:09:01 PM > Accept new incomming connection ...
+1/12/2020 7:09:01 PM > Add client to list
+1/12/2020 7:09:01 PM > Mapping client event
+1/12/2020 7:09:01 PM > Wait new incomming connection ...
+1/12/2020 7:09:51 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 7:09:51 PM > Remove client from list
+1/12/2020 7:14:45 PM > Accept new incomming connection ...
+1/12/2020 7:14:45 PM > Add client to list
+1/12/2020 7:14:45 PM > Mapping client event
+1/12/2020 7:14:45 PM > Wait new incomming connection ...
+1/12/2020 7:15:36 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 7:15:36 PM > Remove client from list
+1/12/2020 7:15:42 PM > Accept new incomming connection ...
+1/12/2020 7:15:42 PM > Add client to list
+1/12/2020 7:15:43 PM > Mapping client event
+1/12/2020 7:15:43 PM > Wait new incomming connection ...
+1/12/2020 7:42:48 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 7:42:48 PM > Remove client from list
+1/12/2020 7:42:53 PM > Accept new incomming connection ...
+1/12/2020 7:42:53 PM > Add client to list
+1/12/2020 7:42:53 PM > Mapping client event
+1/12/2020 7:42:53 PM > Wait new incomming connection ...
+1/12/2020 7:44:03 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 7:44:03 PM > Remove client from list
+1/12/2020 7:44:07 PM > Accept new incomming connection ...
+1/12/2020 7:44:07 PM > Add client to list
+1/12/2020 7:44:07 PM > Mapping client event
+1/12/2020 7:44:07 PM > Wait new incomming connection ...
+1/12/2020 7:46:19 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 7:46:19 PM > Remove client from list
+1/12/2020 7:46:26 PM > Accept new incomming connection ...
+1/12/2020 7:46:26 PM > Add client to list
+1/12/2020 7:46:26 PM > Mapping client event
+1/12/2020 7:46:26 PM > Wait new incomming connection ...
+1/12/2020 8:28:49 PM > MyServer_eventOnDisconnected : YUMIKO
+1/12/2020 8:28:49 PM > Remove client from list

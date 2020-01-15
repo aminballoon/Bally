@@ -1,0 +1,635 @@
+5/1/2017 11:41:47 AM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:41:47 AM > Create communication thread
+5/1/2017 11:41:47 AM > Start thread 3
+5/1/2017 11:41:47 AM > Start Communication Thread
+5/1/2017 12:32:15 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 12:32:15 PM > Create communication thread
+5/1/2017 12:32:15 PM > Start thread 4
+5/1/2017 12:32:15 PM > Start Communication Thread
+5/1/2017 12:34:07 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 12:34:07 PM > Create communication thread
+5/1/2017 12:34:07 PM > Start thread 5
+5/1/2017 12:34:07 PM > Start Communication Thread
+5/1/2017 12:58:16 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 12:58:16 PM > Create communication thread
+5/1/2017 12:58:16 PM > Start thread 6
+5/1/2017 12:58:16 PM > Start Communication Thread
+5/1/2017 1:04:09 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 1:04:09 PM > Create communication thread
+5/1/2017 1:04:09 PM > Start thread 7
+5/1/2017 1:04:09 PM > Start Communication Thread
+5/1/2017 1:05:33 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 1:05:33 PM > Create communication thread
+5/1/2017 1:05:33 PM > Start thread 8
+5/1/2017 1:05:33 PM > Start Communication Thread
+5/1/2017 1:17:16 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 1:17:16 PM > Create communication thread
+5/1/2017 1:17:16 PM > Start thread 9
+5/1/2017 1:17:16 PM > Start Communication Thread
+5/1/2017 3:50:53 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 3:50:53 PM > Create communication thread
+5/1/2017 3:50:54 PM > Start thread 3
+5/1/2017 3:50:54 PM > Start Communication Thread
+5/1/2017 3:50:54 PM > SendData : An existing connection was forcibly closed by the remote host
+5/1/2017 3:50:54 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 3:50:54 PM > 127.0.0.1:31190 force shutting down sending and receiving
+5/1/2017 3:50:54 PM > 127.0.0.1:31190 force closing connection
+5/1/2017 3:52:32 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 3:52:32 PM > Create communication thread
+5/1/2017 3:52:32 PM > Start thread 3
+5/1/2017 3:52:32 PM > Start Communication Thread
+5/1/2017 4:05:25 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:05:25 PM > Create communication thread
+5/1/2017 4:05:25 PM > Start thread 4
+5/1/2017 4:05:25 PM > Start Communication Thread
+5/1/2017 4:05:50 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:05:50 PM > Create communication thread
+5/1/2017 4:05:50 PM > Start thread 5
+5/1/2017 4:05:50 PM > Start Communication Thread
+5/1/2017 4:09:34 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:09:34 PM > Create communication thread
+5/1/2017 4:09:34 PM > Start thread 6
+5/1/2017 4:09:34 PM > Start Communication Thread
+5/1/2017 4:09:54 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:09:54 PM > Create communication thread
+5/1/2017 4:09:54 PM > Start thread 7
+5/1/2017 4:09:54 PM > Start Communication Thread
+5/1/2017 4:11:01 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:11:01 PM > Create communication thread
+5/1/2017 4:11:01 PM > Start thread 8
+5/1/2017 4:11:01 PM > Start Communication Thread
+5/1/2017 4:13:54 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:13:54 PM > Create communication thread
+5/1/2017 4:13:54 PM > Start thread 9
+5/1/2017 4:13:54 PM > Start Communication Thread
+5/1/2017 4:14:39 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:14:39 PM > Create communication thread
+5/1/2017 4:14:39 PM > Start thread 10
+5/1/2017 4:14:39 PM > Start Communication Thread
+5/1/2017 4:22:36 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:22:36 PM > Create communication thread
+5/1/2017 4:22:36 PM > Start thread 11
+5/1/2017 4:22:36 PM > Start Communication Thread
+5/1/2017 4:57:54 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 4:57:54 PM > Create communication thread
+5/1/2017 4:57:54 PM > Start thread 12
+5/1/2017 4:57:54 PM > Start Communication Thread
+5/1/2017 5:00:43 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 5:00:43 PM > Create communication thread
+5/1/2017 5:00:43 PM > Start thread 13
+5/1/2017 5:00:43 PM > Start Communication Thread
+5/1/2017 5:57:44 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 5:57:44 PM > Create communication thread
+5/1/2017 5:57:44 PM > Start thread 14
+5/1/2017 5:57:44 PM > Start Communication Thread
+5/1/2017 5:58:28 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 5:58:28 PM > Create communication thread
+5/1/2017 5:58:28 PM > Start thread 15
+5/1/2017 5:58:28 PM > Start Communication Thread
+5/1/2017 6:00:47 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:00:47 PM > Create communication thread
+5/1/2017 6:00:47 PM > Start thread 16
+5/1/2017 6:00:47 PM > Start Communication Thread
+5/1/2017 6:01:38 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:01:38 PM > Create communication thread
+5/1/2017 6:01:38 PM > Start thread 17
+5/1/2017 6:01:39 PM > Start Communication Thread
+5/1/2017 6:05:19 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:05:19 PM > Create communication thread
+5/1/2017 6:05:19 PM > Start thread 18
+5/1/2017 6:05:19 PM > Start Communication Thread
+5/1/2017 6:19:31 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:19:31 PM > Create communication thread
+5/1/2017 6:19:31 PM > Start thread 19
+5/1/2017 6:19:31 PM > Start Communication Thread
+5/1/2017 6:20:32 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:20:32 PM > Create communication thread
+5/1/2017 6:20:32 PM > Start thread 20
+5/1/2017 6:20:32 PM > Start Communication Thread
+5/1/2017 6:21:06 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:21:06 PM > Create communication thread
+5/1/2017 6:21:06 PM > Start thread 21
+5/1/2017 6:21:06 PM > Start Communication Thread
+5/1/2017 6:59:10 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:59:10 PM > Create communication thread
+5/1/2017 6:59:10 PM > Start thread 3
+5/1/2017 6:59:10 PM > Start Communication Thread
+5/1/2017 6:59:25 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:59:25 PM > Create communication thread
+5/1/2017 6:59:25 PM > Start thread 4
+5/1/2017 6:59:25 PM > Start Communication Thread
+5/1/2017 6:59:46 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 6:59:46 PM > Create communication thread
+5/1/2017 6:59:46 PM > Start thread 5
+5/1/2017 6:59:46 PM > Start Communication Thread
+5/1/2017 7:00:37 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 7:00:37 PM > 172.20.10.2:2686 force shutting down sending and receiving
+5/1/2017 7:00:37 PM > 172.20.10.2:2686 force closing connection
+5/1/2017 7:00:37 PM > End Communication Thread
+5/1/2017 7:03:03 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 7:03:03 PM > Create communication thread
+5/1/2017 7:03:03 PM > Start thread 6
+5/1/2017 7:03:03 PM > Start Communication Thread
+5/1/2017 7:04:40 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 7:04:40 PM > Create communication thread
+5/1/2017 7:04:40 PM > Start thread 7
+5/1/2017 7:04:40 PM > Start Communication Thread
+5/1/2017 9:26:47 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:26:47 PM > Create communication thread
+5/1/2017 9:26:47 PM > Start thread 3
+5/1/2017 9:26:47 PM > Start Communication Thread
+5/1/2017 9:27:59 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:27:59 PM > Create communication thread
+5/1/2017 9:27:59 PM > Start thread 4
+5/1/2017 9:27:59 PM > Start Communication Thread
+5/1/2017 9:31:01 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:31:01 PM > Create communication thread
+5/1/2017 9:31:01 PM > Start thread 5
+5/1/2017 9:31:01 PM > Start Communication Thread
+5/1/2017 9:32:05 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:32:05 PM > Create communication thread
+5/1/2017 9:32:05 PM > Start thread 6
+5/1/2017 9:32:05 PM > Start Communication Thread
+5/1/2017 9:32:24 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:32:24 PM > Create communication thread
+5/1/2017 9:32:24 PM > Start thread 7
+5/1/2017 9:32:24 PM > Start Communication Thread
+5/1/2017 9:34:28 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:34:28 PM > Create communication thread
+5/1/2017 9:34:28 PM > Start thread 8
+5/1/2017 9:34:28 PM > Start Communication Thread
+5/1/2017 9:35:18 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:35:18 PM > Create communication thread
+5/1/2017 9:35:18 PM > Start thread 9
+5/1/2017 9:35:18 PM > Start Communication Thread
+5/1/2017 9:37:05 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:37:05 PM > Create communication thread
+5/1/2017 9:37:05 PM > Start thread 10
+5/1/2017 9:37:05 PM > Start Communication Thread
+5/1/2017 9:38:49 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:38:49 PM > Create communication thread
+5/1/2017 9:38:49 PM > Start thread 3
+5/1/2017 9:38:49 PM > Start Communication Thread
+5/1/2017 9:39:07 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:39:07 PM > Create communication thread
+5/1/2017 9:39:07 PM > Start thread 4
+5/1/2017 9:39:07 PM > Start Communication Thread
+5/1/2017 9:43:31 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:43:31 PM > Create communication thread
+5/1/2017 9:43:31 PM > Start thread 5
+5/1/2017 9:43:31 PM > Start Communication Thread
+5/1/2017 9:45:02 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:45:02 PM > Create communication thread
+5/1/2017 9:45:02 PM > Start thread 6
+5/1/2017 9:45:02 PM > Start Communication Thread
+5/1/2017 9:46:02 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:46:02 PM > Create communication thread
+5/1/2017 9:46:02 PM > Start thread 7
+5/1/2017 9:46:02 PM > Start Communication Thread
+5/1/2017 9:46:21 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 9:46:21 PM > Create communication thread
+5/1/2017 9:46:21 PM > Start thread 8
+5/1/2017 9:46:21 PM > Start Communication Thread
+5/1/2017 10:06:24 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:06:24 PM > Create communication thread
+5/1/2017 10:06:24 PM > Start thread 3
+5/1/2017 10:06:24 PM > Start Communication Thread
+5/1/2017 10:06:42 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:06:42 PM > Create communication thread
+5/1/2017 10:06:42 PM > Start thread 4
+5/1/2017 10:06:42 PM > Start Communication Thread
+5/1/2017 10:10:23 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:10:23 PM > Create communication thread
+5/1/2017 10:10:24 PM > Start thread 5
+5/1/2017 10:10:24 PM > Start Communication Thread
+5/1/2017 10:11:56 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:11:56 PM > Create communication thread
+5/1/2017 10:11:56 PM > Start thread 6
+5/1/2017 10:11:56 PM > Start Communication Thread
+5/1/2017 10:12:55 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:12:55 PM > Create communication thread
+5/1/2017 10:12:55 PM > Start thread 7
+5/1/2017 10:12:55 PM > Start Communication Thread
+5/1/2017 10:13:04 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:13:04 PM > Create communication thread
+5/1/2017 10:13:04 PM > Start thread 8
+5/1/2017 10:13:04 PM > Start Communication Thread
+5/1/2017 10:17:26 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:17:26 PM > Create communication thread
+5/1/2017 10:17:26 PM > Start thread 9
+5/1/2017 10:17:26 PM > Start Communication Thread
+5/1/2017 10:18:01 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:18:01 PM > Create communication thread
+5/1/2017 10:18:01 PM > Start thread 10
+5/1/2017 10:18:01 PM > Start Communication Thread
+5/1/2017 10:33:13 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:33:13 PM > Create communication thread
+5/1/2017 10:33:13 PM > Start thread 11
+5/1/2017 10:33:13 PM > Start Communication Thread
+5/1/2017 10:36:29 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:36:29 PM > Create communication thread
+5/1/2017 10:36:29 PM > Start thread 12
+5/1/2017 10:36:29 PM > Start Communication Thread
+5/1/2017 10:42:03 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:42:03 PM > Create communication thread
+5/1/2017 10:42:03 PM > Start thread 3
+5/1/2017 10:42:03 PM > Start Communication Thread
+5/1/2017 10:45:40 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:45:40 PM > Create communication thread
+5/1/2017 10:45:40 PM > Start thread 4
+5/1/2017 10:45:40 PM > Start Communication Thread
+5/1/2017 10:46:47 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:46:47 PM > Create communication thread
+5/1/2017 10:46:47 PM > Start thread 5
+5/1/2017 10:46:47 PM > Start Communication Thread
+5/1/2017 10:47:07 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:47:07 PM > Create communication thread
+5/1/2017 10:47:07 PM > Start thread 6
+5/1/2017 10:47:07 PM > Start Communication Thread
+5/1/2017 10:47:12 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:47:12 PM > Create communication thread
+5/1/2017 10:47:12 PM > Start thread 7
+5/1/2017 10:47:12 PM > Start Communication Thread
+5/1/2017 10:48:33 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:48:33 PM > Create communication thread
+5/1/2017 10:48:33 PM > Start thread 8
+5/1/2017 10:48:33 PM > Start Communication Thread
+5/1/2017 10:48:38 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:48:38 PM > Create communication thread
+5/1/2017 10:48:38 PM > Start thread 9
+5/1/2017 10:48:38 PM > Start Communication Thread
+5/1/2017 10:49:09 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:49:09 PM > Create communication thread
+5/1/2017 10:49:09 PM > Start thread 10
+5/1/2017 10:49:09 PM > Start Communication Thread
+5/1/2017 10:50:36 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:50:36 PM > Create communication thread
+5/1/2017 10:50:36 PM > Start thread 11
+5/1/2017 10:50:36 PM > Start Communication Thread
+5/1/2017 10:54:11 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:54:11 PM > Create communication thread
+5/1/2017 10:54:11 PM > Start thread 12
+5/1/2017 10:54:11 PM > Start Communication Thread
+5/1/2017 10:57:38 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:57:38 PM > Create communication thread
+5/1/2017 10:57:38 PM > Start thread 13
+5/1/2017 10:57:38 PM > Start Communication Thread
+5/1/2017 10:59:35 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:59:35 PM > Create communication thread
+5/1/2017 10:59:35 PM > Start thread 14
+5/1/2017 10:59:35 PM > Start Communication Thread
+5/1/2017 10:59:44 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:59:44 PM > Create communication thread
+5/1/2017 10:59:44 PM > Start thread 15
+5/1/2017 10:59:44 PM > Start Communication Thread
+5/1/2017 10:59:45 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 10:59:45 PM > Create communication thread
+5/1/2017 10:59:45 PM > Start thread 16
+5/1/2017 10:59:45 PM > Start Communication Thread
+5/1/2017 11:00:15 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:00:15 PM > Create communication thread
+5/1/2017 11:00:15 PM > Start thread 17
+5/1/2017 11:00:15 PM > Start Communication Thread
+5/1/2017 11:01:03 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:01:03 PM > Create communication thread
+5/1/2017 11:01:03 PM > Start thread 18
+5/1/2017 11:01:03 PM > Start Communication Thread
+5/1/2017 11:01:12 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:01:12 PM > Create communication thread
+5/1/2017 11:01:12 PM > Start thread 19
+5/1/2017 11:01:12 PM > Start Communication Thread
+5/1/2017 11:01:35 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:01:35 PM > Create communication thread
+5/1/2017 11:01:35 PM > Start thread 20
+5/1/2017 11:01:35 PM > Start Communication Thread
+5/1/2017 11:02:44 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:02:44 PM > Create communication thread
+5/1/2017 11:02:44 PM > Start thread 21
+5/1/2017 11:02:44 PM > Start Communication Thread
+5/1/2017 11:06:44 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:06:44 PM > Create communication thread
+5/1/2017 11:06:44 PM > Start thread 22
+5/1/2017 11:06:44 PM > Start Communication Thread
+5/1/2017 11:08:25 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:08:25 PM > Create communication thread
+5/1/2017 11:08:25 PM > Start thread 23
+5/1/2017 11:08:25 PM > Start Communication Thread
+5/1/2017 11:08:34 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:08:34 PM > Create communication thread
+5/1/2017 11:08:34 PM > Start thread 24
+5/1/2017 11:08:34 PM > Start Communication Thread
+5/1/2017 11:13:46 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:13:46 PM > Create communication thread
+5/1/2017 11:13:46 PM > Start thread 25
+5/1/2017 11:13:46 PM > Start Communication Thread
+5/1/2017 11:25:21 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:25:21 PM > Create communication thread
+5/1/2017 11:25:21 PM > Start thread 3
+5/1/2017 11:25:21 PM > Start Communication Thread
+5/1/2017 11:25:31 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:25:31 PM > Create communication thread
+5/1/2017 11:25:31 PM > Start thread 4
+5/1/2017 11:25:31 PM > Start Communication Thread
+5/1/2017 11:26:43 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:26:43 PM > Create communication thread
+5/1/2017 11:26:43 PM > Start thread 5
+5/1/2017 11:26:43 PM > Start Communication Thread
+5/1/2017 11:26:45 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:26:45 PM > Create communication thread
+5/1/2017 11:26:45 PM > Start thread 6
+5/1/2017 11:26:45 PM > Start Communication Thread
+5/1/2017 11:26:51 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:26:51 PM > Create communication thread
+5/1/2017 11:26:51 PM > Start thread 7
+5/1/2017 11:26:51 PM > Start Communication Thread
+5/1/2017 11:26:55 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:26:55 PM > 172.20.10.9:12425 force shutting down sending and receiving
+5/1/2017 11:26:55 PM > 172.20.10.9:12425 force closing connection
+5/1/2017 11:26:56 PM > End Communication Thread
+5/1/2017 11:27:05 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:27:05 PM > Create communication thread
+5/1/2017 11:27:05 PM > Start thread 8
+5/1/2017 11:27:05 PM > Start Communication Thread
+5/1/2017 11:27:34 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:27:34 PM > Create communication thread
+5/1/2017 11:27:34 PM > Start thread 9
+5/1/2017 11:27:34 PM > Start Communication Thread
+5/1/2017 11:32:49 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:32:49 PM > Create communication thread
+5/1/2017 11:32:49 PM > Start thread 10
+5/1/2017 11:32:49 PM > Start Communication Thread
+5/1/2017 11:53:43 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:53:43 PM > Create communication thread
+5/1/2017 11:53:43 PM > Start thread 3
+5/1/2017 11:53:43 PM > Start Communication Thread
+5/1/2017 11:53:55 PM > 
+==================================
+Initialize New Client
+==================================
+5/1/2017 11:53:55 PM > Create communication thread
+5/1/2017 11:53:55 PM > Start thread 4
+5/1/2017 11:53:55 PM > Start Communication Thread

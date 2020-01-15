@@ -1,0 +1,5 @@
+1/13/2020 8:07:37 AM > Register as YUMIKO
+1/13/2020 8:09:25 AM > 127.0.0.1:55416 shutting down sending and receiving
+1/13/2020 8:09:25 AM > 127.0.0.1:55416 closing connection
+1/13/2020 8:09:25 AM > End Communication Thread
+1/13/2020 8:09:28 AM > Register as YUMIKO

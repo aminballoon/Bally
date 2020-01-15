@@ -1,0 +1,74 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe.config
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csprojResolveAssemblyReference.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.g.cs
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\App.g.cs
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.lref
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.baml
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.g.resources
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple_Client_A.Properties.Resources.resources
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.GenerateResource.Cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe.config
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csprojResolveAssemblyReference.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\App.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.lref
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.baml
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.baml
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.g.resources
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple_Client_A.Properties.Resources.resources
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.GenerateResource.Cache
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe.config
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.pdb
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.dll
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.pdb
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.g.cs
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.g.cs
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\App.g.cs
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.cache
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.lref
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.baml
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.baml
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.g.resources
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple_Client_A.Properties.Resources.resources
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.GenerateResource.Cache
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.CoreCompileInputs.cache
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.exe
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.pdb
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csprojAssemblyReference.cache
+F:\YUMI_CODE\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.CopyComplete
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe.config
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.exe
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\bin\Debug\Simple Client A.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.dll
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\bin\Debug\MyPX410.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csprojAssemblyReference.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.g.cs
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.g.cs
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\App.g.cs
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A_MarkupCompile.lref
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\MainWindow.baml
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Yumiko.baml
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.g.resources
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple_Client_A.Properties.Resources.resources
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.GenerateResource.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.CoreCompileInputs.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.csproj.CopyComplete
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.exe
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Simple Client A\obj\Debug\Simple Client A.pdb

@@ -1,0 +1,56 @@
+1/12/2020 7:01:27 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:01:27 PM > Create communication thread
+1/12/2020 7:01:27 PM > Start thread 3
+1/12/2020 7:01:27 PM > Start Communication Thread
+1/12/2020 7:05:28 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:05:28 PM > Create communication thread
+1/12/2020 7:05:28 PM > Start thread 3
+1/12/2020 7:05:28 PM > Start Communication Thread
+1/12/2020 7:09:01 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:09:01 PM > Create communication thread
+1/12/2020 7:09:01 PM > Start thread 3
+1/12/2020 7:09:01 PM > Start Communication Thread
+1/12/2020 7:14:45 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:14:45 PM > Create communication thread
+1/12/2020 7:14:45 PM > Start thread 4
+1/12/2020 7:14:45 PM > Start Communication Thread
+1/12/2020 7:15:42 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:15:43 PM > Create communication thread
+1/12/2020 7:15:43 PM > Start thread 5
+1/12/2020 7:15:43 PM > Start Communication Thread
+1/12/2020 7:42:53 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:42:53 PM > Create communication thread
+1/12/2020 7:42:53 PM > Start thread 6
+1/12/2020 7:42:53 PM > Start Communication Thread
+1/12/2020 7:44:07 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:44:07 PM > Create communication thread
+1/12/2020 7:44:07 PM > Start thread 7
+1/12/2020 7:44:07 PM > Start Communication Thread
+1/12/2020 7:46:26 PM > 
+==================================
+Initialize New Client
+==================================
+1/12/2020 7:46:26 PM > Create communication thread
+1/12/2020 7:46:26 PM > Start thread 8
+1/12/2020 7:46:26 PM > Start Communication Thread

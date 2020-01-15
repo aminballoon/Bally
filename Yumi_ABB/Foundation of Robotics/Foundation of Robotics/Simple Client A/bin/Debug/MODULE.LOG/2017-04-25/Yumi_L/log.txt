@@ -1,0 +1,66 @@
+4/25/2017 4:10:08 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 4:12:19 PM > Connected
+4/25/2017 4:12:58 PM > Disconnected
+4/25/2017 4:14:02 PM > Connected
+4/25/2017 4:14:44 PM > Connected
+4/25/2017 4:15:09 PM > Connected
+4/25/2017 4:16:29 PM > Connected
+4/25/2017 4:31:09 PM > Connected
+4/25/2017 4:41:36 PM > Core LOOP
+4/25/2017 5:01:14 PM > Connected
+4/25/2017 5:03:06 PM > Connected
+4/25/2017 5:07:09 PM > Connected
+4/25/2017 5:08:30 PM > Connected
+4/25/2017 5:17:58 PM > Connected
+4/25/2017 5:22:37 PM > Connected
+4/25/2017 5:24:42 PM > Connected
+4/25/2017 5:26:23 PM > Connected
+4/25/2017 5:30:29 PM > Connected
+4/25/2017 5:32:22 PM > Connected
+4/25/2017 5:34:16 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 5:35:27 PM > Connected
+4/25/2017 5:36:58 PM > Connected
+4/25/2017 5:51:06 PM > Connected
+4/25/2017 5:51:37 PM > Disconnected
+4/25/2017 5:52:03 PM > Connected
+4/25/2017 5:54:56 PM > Connected
+4/25/2017 5:57:01 PM > Connected
+4/25/2017 5:57:43 PM > Connected
+4/25/2017 6:06:48 PM > Connected
+4/25/2017 6:09:55 PM > Connected
+4/25/2017 6:28:54 PM > Connected
+4/25/2017 6:30:53 PM > Disconnected
+4/25/2017 6:30:54 PM > Connected
+4/25/2017 6:30:59 PM > Disconnected
+4/25/2017 7:31:40 PM > Connected
+4/25/2017 7:33:01 PM > Connected
+4/25/2017 7:34:03 PM > Connected
+4/25/2017 7:34:17 PM > Disconnected
+4/25/2017 8:58:30 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 8:58:33 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 8:59:21 PM > Disconnected
+4/25/2017 9:08:16 PM > Connected
+4/25/2017 9:12:51 PM > Connected
+4/25/2017 9:20:57 PM > Connected
+4/25/2017 9:24:16 PM > Disconnected
+4/25/2017 9:24:37 PM > Connection fail
+4/25/2017 9:25:08 PM > Connected
+4/25/2017 9:26:46 PM > Disconnected
+4/25/2017 9:27:26 PM > Connected
+4/25/2017 9:31:17 PM > Connected
+4/25/2017 9:36:33 PM > Connection fail
+4/25/2017 9:42:03 PM > Connected
+4/25/2017 9:45:51 PM > Connected
+4/25/2017 9:47:18 PM > Disconnected
+4/25/2017 9:53:01 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 10:53:11 PM > Connected
+4/25/2017 10:57:31 PM > Connected
+4/25/2017 11:08:18 PM > Connected
+4/25/2017 11:13:02 PM > Connected
+4/25/2017 11:14:23 PM > Disconnected
+4/25/2017 11:14:24 PM > Connected
+4/25/2017 11:17:31 PM > Connected
+4/25/2017 11:20:32 PM > Connected
+4/25/2017 11:38:58 PM > Disconnected
+4/25/2017 11:39:41 PM > Connected
+4/25/2017 11:50:42 PM > SendToServer : Object reference not set to an instance of an object.

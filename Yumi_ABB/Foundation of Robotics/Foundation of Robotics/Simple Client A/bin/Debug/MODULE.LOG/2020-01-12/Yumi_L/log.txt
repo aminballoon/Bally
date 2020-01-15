@@ -1,0 +1,16 @@
+1/12/2020 6:57:52 PM > Connection fail
+1/12/2020 7:01:35 PM > Connected
+1/12/2020 7:04:34 PM > Disconnected
+1/12/2020 7:05:32 PM > Connected
+1/12/2020 7:08:06 PM > Disconnected
+1/12/2020 7:09:07 PM > Connected
+1/12/2020 7:14:47 PM > Connected
+1/12/2020 7:15:25 PM > Disconnected
+1/12/2020 7:15:44 PM > Connected
+1/12/2020 7:42:25 PM > Disconnected
+1/12/2020 7:42:54 PM > Connected
+1/12/2020 7:43:46 PM > Disconnected
+1/12/2020 7:44:08 PM > Connected
+1/12/2020 7:46:11 PM > Disconnected
+1/12/2020 7:46:26 PM > Connected
+1/12/2020 8:28:18 PM > Disconnected

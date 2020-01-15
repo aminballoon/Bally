@@ -1,0 +1,28 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Debug\Server.exe.config
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Debug\Server.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Debug\Server.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Debug\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Debug\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Debug\Server.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Debug\Server.pdb
+F:\YUMI_CODE\Foundation of Robotics\Server\bin\Debug\Server.exe.config
+F:\YUMI_CODE\Foundation of Robotics\Server\bin\Debug\Server.exe
+F:\YUMI_CODE\Foundation of Robotics\Server\bin\Debug\Server.pdb
+F:\YUMI_CODE\Foundation of Robotics\Server\bin\Debug\MyPX410.dll
+F:\YUMI_CODE\Foundation of Robotics\Server\bin\Debug\MyPX410.pdb
+F:\YUMI_CODE\Foundation of Robotics\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\YUMI_CODE\Foundation of Robotics\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\YUMI_CODE\Foundation of Robotics\Server\obj\Debug\Server.csproj.CopyComplete
+F:\YUMI_CODE\Foundation of Robotics\Server\obj\Debug\Server.exe
+F:\YUMI_CODE\Foundation of Robotics\Server\obj\Debug\Server.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\bin\Debug\Server.exe.config
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\bin\Debug\Server.exe
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\bin\Debug\Server.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\bin\Debug\MyPX410.dll
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\bin\Debug\MyPX410.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\obj\Debug\Server.exe
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\Server\obj\Debug\Server.pdb

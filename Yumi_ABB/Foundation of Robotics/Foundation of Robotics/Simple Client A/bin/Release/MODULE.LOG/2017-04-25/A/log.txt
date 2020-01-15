@@ -1,0 +1,13 @@
+4/25/2017 12:37:38 AM > Connected
+4/25/2017 12:38:12 AM > Disconnected
+4/25/2017 12:38:14 AM > Connected
+4/25/2017 12:55:44 AM > Connected
+4/25/2017 1:24:31 AM > Connected
+4/25/2017 1:28:20 AM > Connected
+4/25/2017 1:44:28 AM > Connected
+4/25/2017 2:08:33 AM > === [CLOSING] ===
+4/25/2017 2:08:33 AM > STOP CORE
+4/25/2017 2:08:34 AM > [Core Multimedia END]
+4/25/2017 12:36:04 PM > Connected
+4/25/2017 1:23:10 PM > Connected
+4/25/2017 1:39:33 PM > Connected

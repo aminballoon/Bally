@@ -1,0 +1,14 @@
+1/13/2020 8:07:37 AM > 
+==================================
+Initialize New Client
+==================================
+1/13/2020 8:07:37 AM > Create communication thread
+1/13/2020 8:07:37 AM > Start thread 3
+1/13/2020 8:07:37 AM > Start Communication Thread
+1/13/2020 8:09:28 AM > 
+==================================
+Initialize New Client
+==================================
+1/13/2020 8:09:28 AM > Create communication thread
+1/13/2020 8:09:28 AM > Start thread 4
+1/13/2020 8:09:28 AM > Start Communication Thread

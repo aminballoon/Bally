@@ -1,0 +1,246 @@
+5/2/2017 12:00:25 AM > Initialize
+5/2/2017 12:00:25 AM > START CORE
+5/2/2017 12:00:25 AM > [Core Multimedia BEGIN]
+5/2/2017 12:00:25 AM > Core LOOP
+5/2/2017 10:52:14 AM > Initialize
+5/2/2017 10:52:14 AM > START CORE
+5/2/2017 10:52:14 AM > [Core Multimedia BEGIN]
+5/2/2017 10:52:14 AM > Core LOOP
+5/2/2017 11:12:45 AM > Initialize
+5/2/2017 11:12:45 AM > START CORE
+5/2/2017 11:12:45 AM > [Core Multimedia BEGIN]
+5/2/2017 11:12:45 AM > Core LOOP
+5/2/2017 11:13:05 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:13:32 AM > Initialize
+5/2/2017 11:13:32 AM > START CORE
+5/2/2017 11:13:32 AM > [Core Multimedia BEGIN]
+5/2/2017 11:13:32 AM > Core LOOP
+5/2/2017 11:14:18 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:16:38 AM > Initialize
+5/2/2017 11:16:38 AM > START CORE
+5/2/2017 11:16:38 AM > [Core Multimedia BEGIN]
+5/2/2017 11:16:38 AM > Core LOOP
+5/2/2017 11:16:49 AM > Initialize
+5/2/2017 11:16:49 AM > START CORE
+5/2/2017 11:16:49 AM > [Core Multimedia BEGIN]
+5/2/2017 11:16:49 AM > Core LOOP
+5/2/2017 11:17:06 AM > Initialize
+5/2/2017 11:17:06 AM > START CORE
+5/2/2017 11:17:06 AM > [Core Multimedia BEGIN]
+5/2/2017 11:17:06 AM > Core LOOP
+5/2/2017 11:17:46 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:18:25 AM > Initialize
+5/2/2017 11:18:25 AM > START CORE
+5/2/2017 11:18:25 AM > [Core Multimedia BEGIN]
+5/2/2017 11:18:25 AM > Core LOOP
+5/2/2017 11:21:10 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:21:22 AM > Initialize
+5/2/2017 11:21:22 AM > START CORE
+5/2/2017 11:21:22 AM > [Core Multimedia BEGIN]
+5/2/2017 11:21:22 AM > Core LOOP
+5/2/2017 11:21:51 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:28:02 AM > Initialize
+5/2/2017 11:28:02 AM > START CORE
+5/2/2017 11:28:02 AM > [Core Multimedia BEGIN]
+5/2/2017 11:28:02 AM > Core LOOP
+5/2/2017 11:29:29 AM > Initialize
+5/2/2017 11:29:29 AM > START CORE
+5/2/2017 11:29:29 AM > [Core Multimedia BEGIN]
+5/2/2017 11:29:30 AM > Core LOOP
+5/2/2017 11:29:47 AM > Initialize
+5/2/2017 11:29:47 AM > START CORE
+5/2/2017 11:29:47 AM > [Core Multimedia BEGIN]
+5/2/2017 11:29:47 AM > Core LOOP
+5/2/2017 11:32:35 AM > Initialize
+5/2/2017 11:32:35 AM > START CORE
+5/2/2017 11:32:35 AM > [Core Multimedia BEGIN]
+5/2/2017 11:32:35 AM > Core LOOP
+5/2/2017 11:37:00 AM > Initialize
+5/2/2017 11:37:00 AM > START CORE
+5/2/2017 11:37:00 AM > [Core Multimedia BEGIN]
+5/2/2017 11:37:00 AM > Core LOOP
+5/2/2017 11:39:02 AM > Initialize
+5/2/2017 11:39:02 AM > START CORE
+5/2/2017 11:39:02 AM > [Core Multimedia BEGIN]
+5/2/2017 11:39:02 AM > Core LOOP
+5/2/2017 11:40:43 AM > Initialize
+5/2/2017 11:40:43 AM > START CORE
+5/2/2017 11:40:43 AM > [Core Multimedia BEGIN]
+5/2/2017 11:40:43 AM > Core LOOP
+5/2/2017 11:41:45 AM > Initialize
+5/2/2017 11:41:45 AM > START CORE
+5/2/2017 11:41:45 AM > [Core Multimedia BEGIN]
+5/2/2017 11:41:45 AM > Core LOOP
+5/2/2017 11:43:15 AM > Initialize
+5/2/2017 11:43:15 AM > START CORE
+5/2/2017 11:43:15 AM > [Core Multimedia BEGIN]
+5/2/2017 11:43:15 AM > Core LOOP
+5/2/2017 11:45:42 AM > Initialize
+5/2/2017 11:45:42 AM > START CORE
+5/2/2017 11:45:42 AM > [Core Multimedia BEGIN]
+5/2/2017 11:45:42 AM > Core LOOP
+5/2/2017 11:46:49 AM > Initialize
+5/2/2017 11:46:49 AM > START CORE
+5/2/2017 11:46:49 AM > [Core Multimedia BEGIN]
+5/2/2017 11:46:49 AM > Core LOOP
+5/2/2017 11:47:50 AM > Initialize
+5/2/2017 11:47:50 AM > START CORE
+5/2/2017 11:47:50 AM > [Core Multimedia BEGIN]
+5/2/2017 11:47:50 AM > Core LOOP
+5/2/2017 11:48:10 AM > Initialize
+5/2/2017 11:48:10 AM > START CORE
+5/2/2017 11:48:10 AM > [Core Multimedia BEGIN]
+5/2/2017 11:48:10 AM > Core LOOP
+5/2/2017 11:49:20 AM > Initialize
+5/2/2017 11:49:20 AM > START CORE
+5/2/2017 11:49:20 AM > [Core Multimedia BEGIN]
+5/2/2017 11:49:20 AM > Core LOOP
+5/2/2017 11:51:00 AM > Initialize
+5/2/2017 11:51:00 AM > START CORE
+5/2/2017 11:51:00 AM > [Core Multimedia BEGIN]
+5/2/2017 11:51:00 AM > Core LOOP
+5/2/2017 11:51:15 AM > Initialize
+5/2/2017 11:51:15 AM > START CORE
+5/2/2017 11:51:15 AM > [Core Multimedia BEGIN]
+5/2/2017 11:51:15 AM > Core LOOP
+5/2/2017 11:52:06 AM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 11:53:00 AM > Initialize
+5/2/2017 11:53:00 AM > START CORE
+5/2/2017 11:53:00 AM > [Core Multimedia BEGIN]
+5/2/2017 11:53:00 AM > Core LOOP
+5/2/2017 11:56:13 AM > Initialize
+5/2/2017 11:56:13 AM > START CORE
+5/2/2017 11:56:13 AM > [Core Multimedia BEGIN]
+5/2/2017 11:56:13 AM > Core LOOP
+5/2/2017 1:16:48 PM > Initialize
+5/2/2017 1:16:48 PM > START CORE
+5/2/2017 1:16:48 PM > [Core Multimedia BEGIN]
+5/2/2017 1:16:48 PM > Core LOOP
+5/2/2017 1:22:31 PM > Initialize
+5/2/2017 1:22:31 PM > START CORE
+5/2/2017 1:22:31 PM > [Core Multimedia BEGIN]
+5/2/2017 1:22:31 PM > Core LOOP
+5/2/2017 1:22:52 PM > Initialize
+5/2/2017 1:22:52 PM > START CORE
+5/2/2017 1:22:52 PM > [Core Multimedia BEGIN]
+5/2/2017 1:22:52 PM > Core LOOP
+5/2/2017 1:23:04 PM > Initialize
+5/2/2017 1:23:04 PM > START CORE
+5/2/2017 1:23:04 PM > [Core Multimedia BEGIN]
+5/2/2017 1:23:04 PM > Core LOOP
+5/2/2017 1:23:17 PM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 1:32:47 PM > Initialize
+5/2/2017 1:32:47 PM > START CORE
+5/2/2017 1:32:47 PM > [Core Multimedia BEGIN]
+5/2/2017 1:32:47 PM > Core LOOP
+5/2/2017 1:33:07 PM > Initialize
+5/2/2017 1:33:07 PM > START CORE
+5/2/2017 1:33:07 PM > [Core Multimedia BEGIN]
+5/2/2017 1:33:07 PM > Core LOOP
+5/2/2017 1:42:50 PM > Initialize
+5/2/2017 1:42:50 PM > START CORE
+5/2/2017 1:42:50 PM > [Core Multimedia BEGIN]
+5/2/2017 1:42:50 PM > Core LOOP
+5/2/2017 1:45:06 PM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 1:45:12 PM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 1:55:43 PM > Initialize
+5/2/2017 1:55:43 PM > START CORE
+5/2/2017 1:55:43 PM > [Core Multimedia BEGIN]
+5/2/2017 1:55:43 PM > Core LOOP
+5/2/2017 2:00:53 PM > Initialize
+5/2/2017 2:00:53 PM > START CORE
+5/2/2017 2:00:53 PM > [Core Multimedia BEGIN]
+5/2/2017 2:00:54 PM > Core LOOP
+5/2/2017 2:10:26 PM > Initialize
+5/2/2017 2:10:26 PM > START CORE
+5/2/2017 2:10:26 PM > [Core Multimedia BEGIN]
+5/2/2017 2:10:26 PM > Core LOOP
+5/2/2017 2:27:33 PM > Initialize
+5/2/2017 2:27:33 PM > START CORE
+5/2/2017 2:27:33 PM > [Core Multimedia BEGIN]
+5/2/2017 2:27:33 PM > Core LOOP
+5/2/2017 4:05:27 PM > Initialize
+5/2/2017 4:05:27 PM > START CORE
+5/2/2017 4:05:27 PM > [Core Multimedia BEGIN]
+5/2/2017 4:05:27 PM > Core LOOP
+5/2/2017 4:06:55 PM > Initialize
+5/2/2017 4:06:55 PM > START CORE
+5/2/2017 4:06:55 PM > [Core Multimedia BEGIN]
+5/2/2017 4:06:55 PM > Core LOOP
+5/2/2017 4:07:26 PM > Initialize
+5/2/2017 4:07:26 PM > START CORE
+5/2/2017 4:07:26 PM > [Core Multimedia BEGIN]
+5/2/2017 4:07:26 PM > Core LOOP
+5/2/2017 4:07:56 PM > Initialize
+5/2/2017 4:07:56 PM > START CORE
+5/2/2017 4:07:56 PM > [Core Multimedia BEGIN]
+5/2/2017 4:07:56 PM > Core LOOP
+5/2/2017 4:08:50 PM > Initialize
+5/2/2017 4:08:50 PM > START CORE
+5/2/2017 4:08:50 PM > [Core Multimedia BEGIN]
+5/2/2017 4:08:50 PM > Core LOOP
+5/2/2017 4:09:08 PM > Initialize
+5/2/2017 4:09:08 PM > START CORE
+5/2/2017 4:09:08 PM > [Core Multimedia BEGIN]
+5/2/2017 4:09:08 PM > Core LOOP
+5/2/2017 4:09:52 PM > Initialize
+5/2/2017 4:09:52 PM > START CORE
+5/2/2017 4:09:52 PM > [Core Multimedia BEGIN]
+5/2/2017 4:09:52 PM > Core LOOP
+5/2/2017 4:11:10 PM > Initialize
+5/2/2017 4:11:10 PM > START CORE
+5/2/2017 4:11:10 PM > [Core Multimedia BEGIN]
+5/2/2017 4:11:10 PM > Core LOOP
+5/2/2017 4:11:34 PM > Initialize
+5/2/2017 4:11:34 PM > START CORE
+5/2/2017 4:11:34 PM > [Core Multimedia BEGIN]
+5/2/2017 4:11:34 PM > Core LOOP
+5/2/2017 4:12:06 PM > Initialize
+5/2/2017 4:12:06 PM > START CORE
+5/2/2017 4:12:06 PM > [Core Multimedia BEGIN]
+5/2/2017 4:12:06 PM > Core LOOP
+5/2/2017 4:12:26 PM > Initialize
+5/2/2017 4:12:26 PM > START CORE
+5/2/2017 4:12:26 PM > [Core Multimedia BEGIN]
+5/2/2017 4:12:26 PM > Core LOOP
+5/2/2017 4:16:12 PM > Initialize
+5/2/2017 4:16:12 PM > START CORE
+5/2/2017 4:16:12 PM > [Core Multimedia BEGIN]
+5/2/2017 4:16:13 PM > Core LOOP
+5/2/2017 4:22:05 PM > Initialize
+5/2/2017 4:22:05 PM > START CORE
+5/2/2017 4:22:05 PM > [Core Multimedia BEGIN]
+5/2/2017 4:22:05 PM > Core LOOP
+5/2/2017 4:30:00 PM > Initialize
+5/2/2017 4:30:00 PM > START CORE
+5/2/2017 4:30:00 PM > [Core Multimedia BEGIN]
+5/2/2017 4:30:00 PM > Core LOOP
+5/2/2017 4:30:44 PM > Initialize
+5/2/2017 4:30:44 PM > START CORE
+5/2/2017 4:30:44 PM > [Core Multimedia BEGIN]
+5/2/2017 4:30:44 PM > Core LOOP
+5/2/2017 4:31:25 PM > Initialize
+5/2/2017 4:31:25 PM > START CORE
+5/2/2017 4:31:25 PM > [Core Multimedia BEGIN]
+5/2/2017 4:31:25 PM > Core LOOP
+5/2/2017 4:31:58 PM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 4:35:43 PM > Initialize
+5/2/2017 4:35:43 PM > START CORE
+5/2/2017 4:35:43 PM > [Core Multimedia BEGIN]
+5/2/2017 4:35:43 PM > Core LOOP
+5/2/2017 4:36:52 PM > Initialize
+5/2/2017 4:36:52 PM > START CORE
+5/2/2017 4:36:52 PM > [Core Multimedia BEGIN]
+5/2/2017 4:36:52 PM > Core LOOP
+5/2/2017 4:37:24 PM > Initialize
+5/2/2017 4:37:24 PM > START CORE
+5/2/2017 4:37:24 PM > [Core Multimedia BEGIN]
+5/2/2017 4:37:24 PM > Core LOOP
+5/2/2017 4:52:16 PM > Initialize
+5/2/2017 4:52:16 PM > START CORE
+5/2/2017 4:52:16 PM > [Core Multimedia BEGIN]
+5/2/2017 4:52:16 PM > Core LOOP
+5/2/2017 5:02:55 PM > Initialize
+5/2/2017 5:02:55 PM > START CORE
+5/2/2017 5:02:55 PM > [Core Multimedia BEGIN]
+5/2/2017 5:02:55 PM > Core LOOP

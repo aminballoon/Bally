@@ -1,0 +1,6 @@
+3/11/2560 11:29:53 > [Core Multimedia BEGIN]
+3/11/2560 11:29:53 > Core LOOP
+3/11/2560 11:29:55 > Connected
+3/11/2560 11:33:21 > Disconnected
+3/11/2560 13:14:24 > [Core Multimedia BEGIN]
+3/11/2560 13:14:24 > Core LOOP

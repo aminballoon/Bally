@@ -1,0 +1,34 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.exe.config
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Release\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\bin\Release\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.csprojResolveAssemblyReference.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\MainWindow.g.cs
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\App.g.cs
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A_MarkupCompile.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A_MarkupCompile.lref
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\MainWindow.baml
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.g.resources
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple_Client_A.Properties.Resources.resources
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.csproj.GenerateResource.Cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.exe.config
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Release\Simple Client A.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Release\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\bin\Release\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.csprojResolveAssemblyReference.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\MainWindow.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\App.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A_MarkupCompile.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A_MarkupCompile.lref
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\MainWindow.baml
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.g.resources
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple_Client_A.Properties.Resources.resources
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Simple Client A.csproj.GenerateResource.Cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Yumiko.g.cs
+C:\Users\iNook\Desktop\Foundation of Robotics\Simple Client A\obj\Release\Yumiko.baml

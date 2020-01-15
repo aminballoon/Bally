@@ -1,0 +1,5 @@
+5/1/2017 6:59:19 PM > Register as TEST
+5/1/2017 7:09:13 PM > MyCore : An established connection was aborted by the software in your host machine
+5/1/2017 7:09:13 PM > 172.20.10.2:2668 force shutting down sending and receiving
+5/1/2017 7:09:13 PM > 172.20.10.2:2668 force closing connection
+5/1/2017 7:09:13 PM > End Communication Thread

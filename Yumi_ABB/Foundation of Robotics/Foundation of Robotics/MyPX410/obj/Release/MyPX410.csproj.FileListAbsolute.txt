@@ -1,0 +1,9 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\bin\Release\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\bin\Release\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\obj\Release\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\obj\Release\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\bin\Release\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\bin\Release\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\obj\Release\MyPX410.csprojResolveAssemblyReference.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\obj\Release\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\obj\Release\MyPX410.pdb

@@ -1,0 +1,24 @@
+4/25/2017 12:35:01 PM > 
+==================================
+InitializeSERVER
+==================================
+4/25/2017 12:35:01 PM > Listening port 1150
+4/25/2017 12:35:01 PM > Wait new incomming connection ...
+4/25/2017 12:36:04 PM > Accept new incomming connection ...
+4/25/2017 12:36:04 PM > Add client to list
+4/25/2017 12:36:04 PM > Mapping client event
+4/25/2017 12:36:04 PM > Wait new incomming connection ...
+4/25/2017 12:39:34 PM > MyServer_eventOnDisconnected : A
+4/25/2017 12:39:34 PM > Remove client from list
+4/25/2017 1:23:10 PM > Accept new incomming connection ...
+4/25/2017 1:23:10 PM > Add client to list
+4/25/2017 1:23:10 PM > Mapping client event
+4/25/2017 1:23:10 PM > Wait new incomming connection ...
+4/25/2017 1:24:00 PM > MyServer_eventOnDisconnected : A
+4/25/2017 1:24:00 PM > Remove client from list
+4/25/2017 1:39:33 PM > Accept new incomming connection ...
+4/25/2017 1:39:33 PM > Add client to list
+4/25/2017 1:39:33 PM > Mapping client event
+4/25/2017 1:39:33 PM > Wait new incomming connection ...
+4/25/2017 1:40:33 PM > MyServer_eventOnDisconnected : A
+4/25/2017 1:40:33 PM > Remove client from list

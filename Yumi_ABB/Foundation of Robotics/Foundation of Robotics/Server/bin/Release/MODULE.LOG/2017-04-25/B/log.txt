@@ -1,0 +1,5 @@
+4/25/2017 12:15:36 AM > Register as B
+4/25/2017 12:32:39 AM > MyCore : An existing connection was forcibly closed by the remote host
+4/25/2017 12:32:39 AM > 127.0.0.1:2404 force shutting down sending and receiving
+4/25/2017 12:32:39 AM > 127.0.0.1:2404 force closing connection
+4/25/2017 12:32:39 AM > End Communication Thread

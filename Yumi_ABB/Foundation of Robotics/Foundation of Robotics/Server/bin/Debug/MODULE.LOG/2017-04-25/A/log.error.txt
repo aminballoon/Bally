@@ -1,0 +1,1 @@
+4/25/2017 1:40:33 PM > MyCore : An existing connection was forcibly closed by the remote host

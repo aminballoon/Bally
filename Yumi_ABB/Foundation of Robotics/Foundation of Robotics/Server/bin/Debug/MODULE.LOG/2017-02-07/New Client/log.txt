@@ -1,0 +1,48 @@
+07-Feb-2017 15:03:43 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:03:43 > Create communication thread
+07-Feb-2017 15:03:43 > Start thread 6
+07-Feb-2017 15:03:43 > Start Communication Thread
+07-Feb-2017 15:04:08 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:04:08 > Create communication thread
+07-Feb-2017 15:04:08 > Start thread 11
+07-Feb-2017 15:04:08 > Start Communication Thread
+07-Feb-2017 15:04:36 > 127.0.0.1:4818 shutting down sending and receiving
+07-Feb-2017 15:04:36 > 127.0.0.1:4818 closing connection
+07-Feb-2017 15:04:36 > End Communication Thread
+07-Feb-2017 15:04:38 > 127.0.0.1:4813 shutting down sending and receiving
+07-Feb-2017 15:04:38 > 127.0.0.1:4813 closing connection
+07-Feb-2017 15:04:38 > End Communication Thread
+07-Feb-2017 15:05:25 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:05:25 > Create communication thread
+07-Feb-2017 15:05:25 > Start thread 10
+07-Feb-2017 15:05:25 > Start Communication Thread
+07-Feb-2017 15:05:39 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:05:39 > Create communication thread
+07-Feb-2017 15:05:39 > Start thread 11
+07-Feb-2017 15:05:39 > Start Communication Thread
+07-Feb-2017 15:06:16 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:06:16 > Create communication thread
+07-Feb-2017 15:06:16 > Start thread 12
+07-Feb-2017 15:06:16 > Start Communication Thread
+07-Feb-2017 15:06:28 > 
+==================================
+Initialize New Client
+==================================
+07-Feb-2017 15:06:28 > Create communication thread
+07-Feb-2017 15:06:28 > Start thread 13
+07-Feb-2017 15:06:28 > Start Communication Thread

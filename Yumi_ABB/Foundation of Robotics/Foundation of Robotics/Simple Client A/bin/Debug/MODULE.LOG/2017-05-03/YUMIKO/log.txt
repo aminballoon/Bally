@@ -1,0 +1,114 @@
+5/3/2017 6:32:44 PM > === [START] ===
+5/3/2017 6:33:20 PM > Connected
+5/3/2017 6:45:12 PM > === [START] ===
+5/3/2017 6:54:48 PM > === [START] ===
+5/3/2017 6:55:21 PM > Disconnected
+5/3/2017 6:55:30 PM > === [START] ===
+5/3/2017 6:55:31 PM > Connected
+5/3/2017 6:55:33 PM > Connected
+5/3/2017 6:55:33 PM > Connected
+5/3/2017 6:55:34 PM > Connected
+5/3/2017 6:55:34 PM > Connected
+5/3/2017 6:55:57 PM > === [START] ===
+5/3/2017 6:56:06 PM > Connected
+5/3/2017 6:57:55 PM > === [START] ===
+5/3/2017 6:57:57 PM > Connected
+5/3/2017 6:58:01 PM > Disconnected
+5/3/2017 6:58:13 PM > === [START] ===
+5/3/2017 6:58:26 PM > Connected
+5/3/2017 6:58:30 PM > Disconnected
+5/3/2017 6:58:30 PM > === [START] ===
+5/3/2017 6:58:36 PM > Connected
+5/3/2017 7:03:56 PM > Disconnected
+5/3/2017 7:04:01 PM > === [START] ===
+5/3/2017 7:04:04 PM > Connection fail
+5/3/2017 7:04:06 PM > Connection fail
+5/3/2017 7:04:07 PM > Connection fail
+5/3/2017 7:04:07 PM > Connection fail
+5/3/2017 7:04:07 PM > Connection fail
+5/3/2017 7:04:07 PM > Connection fail
+5/3/2017 7:04:49 PM > === [START] ===
+5/3/2017 7:05:07 PM > Connected
+5/3/2017 7:05:17 PM > === [START] ===
+5/3/2017 7:05:41 PM > Connected
+5/3/2017 7:07:15 PM > === [START] ===
+5/3/2017 7:07:20 PM > === [START] ===
+5/3/2017 7:07:34 PM > Connected
+5/3/2017 7:08:18 PM > === [START] ===
+5/3/2017 7:08:27 PM > === [START] ===
+5/3/2017 7:08:33 PM > Connected
+5/3/2017 7:08:59 PM > Connected
+5/3/2017 7:09:43 PM > === [START] ===
+5/3/2017 7:10:19 PM > === [START] ===
+5/3/2017 7:10:20 PM > === [START] ===
+5/3/2017 7:10:31 PM > Connected
+5/3/2017 7:11:40 PM > === [START] ===
+5/3/2017 7:13:28 PM > === [START] ===
+5/3/2017 7:13:35 PM > === [START] ===
+5/3/2017 7:14:00 PM > === [START] ===
+5/3/2017 7:14:27 PM > === [START] ===
+5/3/2017 7:14:42 PM > Connected
+5/3/2017 7:14:44 PM > Connected
+5/3/2017 7:19:03 PM > Connected
+5/3/2017 7:20:17 PM > === [START] ===
+5/3/2017 7:25:59 PM > === [START] ===
+5/3/2017 7:26:06 PM > Connected
+5/3/2017 7:27:50 PM > === [START] ===
+5/3/2017 7:28:33 PM > === [START] ===
+5/3/2017 7:28:35 PM > Connected
+5/3/2017 7:28:48 PM > Connected
+5/3/2017 7:29:22 PM > === [START] ===
+5/3/2017 7:29:24 PM > === [START] ===
+5/3/2017 7:29:41 PM > Connected
+5/3/2017 7:30:44 PM > === [START] ===
+5/3/2017 7:30:46 PM > === [START] ===
+5/3/2017 7:32:11 PM > === [START] ===
+5/3/2017 7:32:28 PM > === [START] ===
+5/3/2017 7:32:36 PM > Connected
+5/3/2017 7:34:32 PM > === [CLOSING] ===
+5/3/2017 7:34:32 PM > STOP CORE
+5/3/2017 7:35:06 PM > === [START] ===
+5/3/2017 7:35:29 PM > === [START] ===
+5/3/2017 7:35:33 PM > Connected
+5/3/2017 7:36:46 PM > === [START] ===
+5/3/2017 7:37:17 PM > === [START] ===
+5/3/2017 7:37:59 PM > === [START] ===
+5/3/2017 7:38:03 PM > Connected
+5/3/2017 7:43:29 PM > Disconnected
+5/3/2017 7:43:37 PM > === [START] ===
+5/3/2017 7:43:40 PM > Connected
+5/3/2017 7:53:59 PM > === [START] ===
+5/3/2017 7:54:01 PM > Connected
+5/3/2017 8:08:09 PM > === [START] ===
+5/3/2017 8:08:18 PM > Connected
+5/3/2017 8:10:50 PM > === [START] ===
+5/3/2017 8:11:10 PM > Connected
+5/3/2017 8:43:29 PM > === [START] ===
+5/3/2017 8:43:32 PM > Connected
+5/3/2017 8:45:20 PM > === [START] ===
+5/3/2017 8:45:23 PM > Connected
+5/3/2017 9:08:54 PM > Disconnected
+5/3/2017 9:08:54 PM > Connected
+5/3/2017 9:09:07 PM > === [START] ===
+5/3/2017 9:09:08 PM > Connected
+5/3/2017 9:22:10 PM > Connected
+5/3/2017 9:23:09 PM > === [START] ===
+5/3/2017 9:23:13 PM > Connected
+5/3/2017 9:28:00 PM > Disconnected
+5/3/2017 9:28:01 PM > Connected
+5/3/2017 9:36:24 PM > Connected
+5/3/2017 9:36:36 PM > Connected
+5/3/2017 9:36:45 PM > Connected
+5/3/2017 9:42:07 PM > === [START] ===
+5/3/2017 9:42:35 PM > === [START] ===
+5/3/2017 9:42:51 PM > Connected
+5/3/2017 10:01:56 PM > === [START] ===
+5/3/2017 10:02:01 PM > Connected
+5/3/2017 10:40:55 PM > Connected
+5/3/2017 10:41:06 PM > === [START] ===
+5/3/2017 10:45:33 PM > Connected
+5/3/2017 10:47:34 PM > === [START] ===
+5/3/2017 10:47:39 PM > Connected
+5/3/2017 10:52:31 PM > Connected
+5/3/2017 10:52:31 PM > Disconnected
+5/3/2017 10:52:32 PM > Connected

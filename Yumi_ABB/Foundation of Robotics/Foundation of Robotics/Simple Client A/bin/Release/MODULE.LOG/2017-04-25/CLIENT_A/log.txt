@@ -1,0 +1,185 @@
+4/25/2017 12:34:59 AM > === [START] ===
+4/25/2017 12:34:59 AM > Initialize
+4/25/2017 12:34:59 AM > START CORE
+4/25/2017 12:34:59 AM > [Core Multimedia BEGIN]
+4/25/2017 12:34:59 AM > Core LOOP
+4/25/2017 12:44:50 AM > === [START] ===
+4/25/2017 12:44:50 AM > Initialize
+4/25/2017 12:44:50 AM > START CORE
+4/25/2017 12:44:50 AM > [Core Multimedia BEGIN]
+4/25/2017 12:44:50 AM > Core LOOP
+4/25/2017 12:45:27 AM > === [START] ===
+4/25/2017 12:45:27 AM > Initialize
+4/25/2017 12:45:27 AM > START CORE
+4/25/2017 12:45:27 AM > [Core Multimedia BEGIN]
+4/25/2017 12:45:27 AM > Core LOOP
+4/25/2017 12:47:34 AM > === [START] ===
+4/25/2017 12:47:34 AM > Initialize
+4/25/2017 12:47:34 AM > START CORE
+4/25/2017 12:47:34 AM > [Core Multimedia BEGIN]
+4/25/2017 12:47:34 AM > Core LOOP
+4/25/2017 12:51:31 AM > === [START] ===
+4/25/2017 12:51:31 AM > Initialize
+4/25/2017 12:51:31 AM > START CORE
+4/25/2017 12:51:31 AM > [Core Multimedia BEGIN]
+4/25/2017 12:51:31 AM > Core LOOP
+4/25/2017 12:53:13 AM > === [START] ===
+4/25/2017 12:53:13 AM > Initialize
+4/25/2017 12:53:13 AM > START CORE
+4/25/2017 12:53:13 AM > [Core Multimedia BEGIN]
+4/25/2017 12:53:13 AM > Core LOOP
+4/25/2017 12:53:53 AM > === [START] ===
+4/25/2017 12:53:53 AM > Initialize
+4/25/2017 12:53:53 AM > START CORE
+4/25/2017 12:53:53 AM > [Core Multimedia BEGIN]
+4/25/2017 12:53:53 AM > Core LOOP
+4/25/2017 12:54:19 AM > === [START] ===
+4/25/2017 12:54:19 AM > Initialize
+4/25/2017 12:54:19 AM > START CORE
+4/25/2017 12:54:19 AM > [Core Multimedia BEGIN]
+4/25/2017 12:54:19 AM > Core LOOP
+4/25/2017 12:54:36 AM > === [START] ===
+4/25/2017 12:54:36 AM > Initialize
+4/25/2017 12:54:36 AM > START CORE
+4/25/2017 12:54:36 AM > [Core Multimedia BEGIN]
+4/25/2017 12:54:36 AM > Core LOOP
+4/25/2017 12:54:43 AM > === [CLOSING] ===
+4/25/2017 12:54:43 AM > STOP CORE
+4/25/2017 12:54:44 AM > [Core Multimedia END]
+4/25/2017 12:55:40 AM > === [START] ===
+4/25/2017 12:55:40 AM > Initialize
+4/25/2017 12:55:40 AM > START CORE
+4/25/2017 12:55:40 AM > [Core Multimedia BEGIN]
+4/25/2017 12:55:40 AM > Core LOOP
+4/25/2017 1:24:25 AM > === [START] ===
+4/25/2017 1:24:25 AM > Initialize
+4/25/2017 1:24:25 AM > START CORE
+4/25/2017 1:24:25 AM > [Core Multimedia BEGIN]
+4/25/2017 1:24:25 AM > Core LOOP
+4/25/2017 1:28:18 AM > === [START] ===
+4/25/2017 1:28:18 AM > Initialize
+4/25/2017 1:28:18 AM > START CORE
+4/25/2017 1:28:18 AM > [Core Multimedia BEGIN]
+4/25/2017 1:28:18 AM > Core LOOP
+4/25/2017 1:40:34 AM > === [START] ===
+4/25/2017 1:40:34 AM > Initialize
+4/25/2017 1:40:34 AM > START CORE
+4/25/2017 1:40:34 AM > [Core Multimedia BEGIN]
+4/25/2017 1:40:34 AM > Core LOOP
+4/25/2017 9:18:17 AM > === [START] ===
+4/25/2017 9:18:17 AM > Initialize
+4/25/2017 9:18:17 AM > START CORE
+4/25/2017 9:18:17 AM > [Core Multimedia BEGIN]
+4/25/2017 9:18:17 AM > Core LOOP
+4/25/2017 9:30:44 AM > === [START] ===
+4/25/2017 9:30:44 AM > Initialize
+4/25/2017 9:30:44 AM > START CORE
+4/25/2017 9:30:44 AM > [Core Multimedia BEGIN]
+4/25/2017 9:30:44 AM > Core LOOP
+4/25/2017 9:31:04 AM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 9:31:11 AM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 9:31:23 AM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 9:31:30 AM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 9:44:28 AM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 12:27:31 PM > === [START] ===
+4/25/2017 12:27:31 PM > Initialize
+4/25/2017 12:27:31 PM > START CORE
+4/25/2017 12:27:31 PM > [Core Multimedia BEGIN]
+4/25/2017 12:27:31 PM > Core LOOP
+4/25/2017 12:35:41 PM > === [START] ===
+4/25/2017 12:35:41 PM > Initialize
+4/25/2017 12:35:41 PM > START CORE
+4/25/2017 12:35:41 PM > [Core Multimedia BEGIN]
+4/25/2017 12:35:41 PM > Core LOOP
+4/25/2017 12:36:02 PM > === [START] ===
+4/25/2017 12:36:02 PM > Initialize
+4/25/2017 12:36:02 PM > START CORE
+4/25/2017 12:36:02 PM > [Core Multimedia BEGIN]
+4/25/2017 12:36:02 PM > Core LOOP
+4/25/2017 1:22:58 PM > === [START] ===
+4/25/2017 1:22:58 PM > Initialize
+4/25/2017 1:22:58 PM > START CORE
+4/25/2017 1:22:58 PM > [Core Multimedia BEGIN]
+4/25/2017 1:22:58 PM > Core LOOP
+4/25/2017 1:39:09 PM > === [START] ===
+4/25/2017 1:39:09 PM > Initialize
+4/25/2017 1:39:09 PM > START CORE
+4/25/2017 1:39:09 PM > [Core Multimedia BEGIN]
+4/25/2017 1:39:09 PM > Core LOOP
+4/25/2017 2:44:03 PM > === [START] ===
+4/25/2017 2:44:03 PM > Initialize
+4/25/2017 2:44:03 PM > START CORE
+4/25/2017 2:44:03 PM > [Core Multimedia BEGIN]
+4/25/2017 2:44:03 PM > Core LOOP
+4/25/2017 2:59:08 PM > === [START] ===
+4/25/2017 2:59:08 PM > Initialize
+4/25/2017 2:59:08 PM > START CORE
+4/25/2017 2:59:08 PM > [Core Multimedia BEGIN]
+4/25/2017 2:59:08 PM > Core LOOP
+4/25/2017 2:59:48 PM > === [START] ===
+4/25/2017 2:59:48 PM > Initialize
+4/25/2017 2:59:48 PM > START CORE
+4/25/2017 2:59:48 PM > [Core Multimedia BEGIN]
+4/25/2017 2:59:48 PM > Core LOOP
+4/25/2017 3:44:26 PM > === [START] ===
+4/25/2017 3:44:26 PM > Initialize
+4/25/2017 3:44:26 PM > START CORE
+4/25/2017 3:44:26 PM > [Core Multimedia BEGIN]
+4/25/2017 3:44:26 PM > Core LOOP
+4/25/2017 3:44:42 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 3:44:47 PM > SendToServer : Object reference not set to an instance of an object.
+4/25/2017 3:47:23 PM > === [START] ===
+4/25/2017 3:47:23 PM > Initialize
+4/25/2017 3:47:23 PM > START CORE
+4/25/2017 3:47:23 PM > [Core Multimedia BEGIN]
+4/25/2017 3:47:23 PM > Core LOOP
+4/25/2017 3:48:14 PM > === [START] ===
+4/25/2017 3:48:14 PM > Initialize
+4/25/2017 3:48:14 PM > START CORE
+4/25/2017 3:48:14 PM > [Core Multimedia BEGIN]
+4/25/2017 3:48:14 PM > Core LOOP
+4/25/2017 3:49:51 PM > === [START] ===
+4/25/2017 3:49:51 PM > Initialize
+4/25/2017 3:49:51 PM > START CORE
+4/25/2017 3:49:51 PM > [Core Multimedia BEGIN]
+4/25/2017 3:49:51 PM > Core LOOP
+4/25/2017 3:50:03 PM > === [START] ===
+4/25/2017 3:50:03 PM > Initialize
+4/25/2017 3:50:03 PM > START CORE
+4/25/2017 3:50:03 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:03 PM > Core LOOP
+4/25/2017 3:50:15 PM > === [START] ===
+4/25/2017 3:50:15 PM > Initialize
+4/25/2017 3:50:15 PM > START CORE
+4/25/2017 3:50:15 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:15 PM > Core LOOP
+4/25/2017 3:50:25 PM > === [START] ===
+4/25/2017 3:50:25 PM > Initialize
+4/25/2017 3:50:25 PM > START CORE
+4/25/2017 3:50:25 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:25 PM > Core LOOP
+4/25/2017 3:50:49 PM > === [START] ===
+4/25/2017 3:50:49 PM > Initialize
+4/25/2017 3:50:49 PM > START CORE
+4/25/2017 3:50:49 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:49 PM > Core LOOP
+4/25/2017 3:57:48 PM > === [START] ===
+4/25/2017 3:57:48 PM > Initialize
+4/25/2017 3:57:48 PM > START CORE
+4/25/2017 3:57:48 PM > [Core Multimedia BEGIN]
+4/25/2017 3:57:48 PM > Core LOOP
+4/25/2017 3:58:03 PM > === [START] ===
+4/25/2017 3:58:03 PM > Initialize
+4/25/2017 3:58:03 PM > START CORE
+4/25/2017 3:58:03 PM > [Core Multimedia BEGIN]
+4/25/2017 3:58:03 PM > Core LOOP
+4/25/2017 4:00:22 PM > === [START] ===
+4/25/2017 4:00:22 PM > Initialize
+4/25/2017 4:00:22 PM > START CORE
+4/25/2017 4:00:22 PM > [Core Multimedia BEGIN]
+4/25/2017 4:00:22 PM > Core LOOP
+4/25/2017 4:02:04 PM > === [START] ===
+4/25/2017 4:02:04 PM > Initialize
+4/25/2017 4:02:04 PM > START CORE
+4/25/2017 4:02:04 PM > [Core Multimedia BEGIN]
+4/25/2017 4:02:04 PM > Core LOOP

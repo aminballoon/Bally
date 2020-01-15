@@ -1,0 +1,117 @@
+4/26/2017 11:41:08 AM > [Core Multimedia BEGIN]
+4/26/2017 11:41:08 AM > Core LOOP
+4/26/2017 11:41:47 AM > Connected
+4/26/2017 11:44:49 AM > Disconnected
+4/26/2017 11:45:28 AM > [Core Multimedia BEGIN]
+4/26/2017 11:45:28 AM > Core LOOP
+4/26/2017 11:46:13 AM > [Core Multimedia BEGIN]
+4/26/2017 11:46:13 AM > Core LOOP
+4/26/2017 11:47:07 AM > [Core Multimedia BEGIN]
+4/26/2017 11:47:07 AM > Core LOOP
+4/26/2017 11:47:30 AM > Connection fail
+4/26/2017 11:47:34 AM > Connected
+4/26/2017 11:48:53 AM > Disconnected
+4/26/2017 11:49:51 AM > [Core Multimedia BEGIN]
+4/26/2017 11:49:51 AM > Core LOOP
+4/26/2017 11:49:59 AM > Connected
+4/26/2017 12:00:22 PM > Disconnected
+4/26/2017 12:20:21 PM > [Core Multimedia BEGIN]
+4/26/2017 12:20:21 PM > Core LOOP
+4/26/2017 12:20:55 PM > SendToServer : Object reference not set to an instance of an object.
+4/26/2017 12:35:27 PM > [Core Multimedia BEGIN]
+4/26/2017 12:35:27 PM > Core LOOP
+4/26/2017 12:37:17 PM > SendToServer : Object reference not set to an instance of an object.
+4/26/2017 12:41:58 PM > [Core Multimedia BEGIN]
+4/26/2017 12:41:58 PM > Core LOOP
+4/26/2017 12:42:43 PM > SendToServer : Object reference not set to an instance of an object.
+4/26/2017 1:23:28 PM > [Core Multimedia BEGIN]
+4/26/2017 1:23:28 PM > Core LOOP
+4/26/2017 1:25:32 PM > SendToServer : Object reference not set to an instance of an object.
+4/26/2017 1:30:02 PM > [Core Multimedia BEGIN]
+4/26/2017 1:30:02 PM > Core LOOP
+4/26/2017 1:36:21 PM > [Core Multimedia BEGIN]
+4/26/2017 1:36:21 PM > Core LOOP
+4/26/2017 6:12:18 PM > [Core Multimedia BEGIN]
+4/26/2017 6:12:18 PM > Core LOOP
+4/26/2017 6:16:24 PM > [Core Multimedia BEGIN]
+4/26/2017 6:16:24 PM > Core LOOP
+4/26/2017 6:16:26 PM > Connected
+4/26/2017 6:16:55 PM > Disconnected
+4/26/2017 6:20:08 PM > Connected
+4/26/2017 6:21:14 PM > Disconnected
+4/26/2017 6:21:32 PM > Connected
+4/26/2017 6:23:42 PM > Disconnected
+4/26/2017 6:23:48 PM > Connected
+4/26/2017 6:26:01 PM > Disconnected
+4/26/2017 6:26:22 PM > Connected
+4/26/2017 6:27:23 PM > Disconnected
+4/26/2017 6:27:29 PM > Connected
+4/26/2017 6:31:23 PM > Disconnected
+4/26/2017 6:31:51 PM > Connected
+4/26/2017 6:34:00 PM > Disconnected
+4/26/2017 6:34:15 PM > Connected
+4/26/2017 6:37:26 PM > Disconnected
+4/26/2017 7:10:56 PM > [Core Multimedia BEGIN]
+4/26/2017 7:10:56 PM > Core LOOP
+4/26/2017 7:11:05 PM > Connection fail
+4/26/2017 8:38:19 PM > [Core Multimedia BEGIN]
+4/26/2017 8:38:19 PM > Core LOOP
+4/26/2017 8:38:22 PM > Connected
+4/26/2017 8:49:59 PM > [Core Multimedia BEGIN]
+4/26/2017 8:49:59 PM > Core LOOP
+4/26/2017 8:50:01 PM > Connected
+4/26/2017 9:07:55 PM > Disconnected
+4/26/2017 9:08:12 PM > Connected
+4/26/2017 9:09:44 PM > Disconnected
+4/26/2017 9:10:42 PM > Connected
+4/26/2017 9:27:28 PM > [Core Multimedia BEGIN]
+4/26/2017 9:27:28 PM > Core LOOP
+4/26/2017 9:27:35 PM > Connected
+4/26/2017 9:28:48 PM > [Core Multimedia BEGIN]
+4/26/2017 9:28:48 PM > Core LOOP
+4/26/2017 9:28:52 PM > Connected
+4/26/2017 9:32:08 PM > [Core Multimedia BEGIN]
+4/26/2017 9:32:08 PM > Core LOOP
+4/26/2017 9:32:10 PM > Connected
+4/26/2017 9:32:41 PM > Disconnected
+4/26/2017 10:19:50 PM > [Core Multimedia BEGIN]
+4/26/2017 10:19:50 PM > Core LOOP
+4/26/2017 10:19:52 PM > Connected
+4/26/2017 10:24:25 PM > Disconnected
+4/26/2017 10:25:05 PM > Connected
+4/26/2017 10:28:07 PM > [Core Multimedia BEGIN]
+4/26/2017 10:28:07 PM > Core LOOP
+4/26/2017 10:28:09 PM > Connected
+4/26/2017 10:29:56 PM > Disconnected
+4/26/2017 10:30:15 PM > [Core Multimedia BEGIN]
+4/26/2017 10:30:15 PM > Core LOOP
+4/26/2017 10:30:36 PM > [Core Multimedia BEGIN]
+4/26/2017 10:30:36 PM > Core LOOP
+4/26/2017 10:30:41 PM > Connected
+4/26/2017 10:32:14 PM > [Core Multimedia BEGIN]
+4/26/2017 10:32:14 PM > Core LOOP
+4/26/2017 10:32:51 PM > Connected
+4/26/2017 10:34:10 PM > [Core Multimedia BEGIN]
+4/26/2017 10:34:10 PM > Core LOOP
+4/26/2017 10:34:40 PM > Connected
+4/26/2017 10:35:49 PM > [Core Multimedia BEGIN]
+4/26/2017 10:35:49 PM > Core LOOP
+4/26/2017 10:35:51 PM > Connected
+4/26/2017 10:38:07 PM > [Core Multimedia BEGIN]
+4/26/2017 10:38:07 PM > Core LOOP
+4/26/2017 10:38:11 PM > Connected
+4/26/2017 10:41:14 PM > [Core Multimedia BEGIN]
+4/26/2017 10:41:14 PM > Core LOOP
+4/26/2017 10:41:16 PM > Connected
+4/26/2017 10:41:39 PM > Disconnected
+4/26/2017 10:41:55 PM > [Core Multimedia BEGIN]
+4/26/2017 10:41:55 PM > Core LOOP
+4/26/2017 10:49:48 PM > [Core Multimedia BEGIN]
+4/26/2017 10:49:48 PM > Core LOOP
+4/26/2017 10:49:50 PM > Connected
+4/26/2017 10:51:17 PM > [Core Multimedia BEGIN]
+4/26/2017 10:51:17 PM > Core LOOP
+4/26/2017 10:51:54 PM > Connected
+4/26/2017 10:53:54 PM > [Core Multimedia BEGIN]
+4/26/2017 10:53:54 PM > Core LOOP
+4/26/2017 10:54:46 PM > Connected

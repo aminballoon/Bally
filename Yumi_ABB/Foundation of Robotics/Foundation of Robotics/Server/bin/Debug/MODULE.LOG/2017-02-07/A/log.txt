@@ -1,0 +1,5 @@
+07-Feb-2017 15:05:30 > Register as A
+07-Feb-2017 15:06:06 > 127.0.0.1:4925 shutting down sending and receiving
+07-Feb-2017 15:06:06 > 127.0.0.1:4925 closing connection
+07-Feb-2017 15:06:06 > End Communication Thread
+07-Feb-2017 15:06:22 > Register as A

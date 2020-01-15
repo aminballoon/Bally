@@ -1,0 +1,99 @@
+5/2/2017 12:00:39 AM > Connected
+5/2/2017 10:53:19 AM > Connected
+5/2/2017 11:04:10 AM > Disconnected
+5/2/2017 11:04:26 AM > Connected
+5/2/2017 11:12:47 AM > Connected
+5/2/2017 11:14:01 AM > Connected
+5/2/2017 11:17:08 AM > Connected
+5/2/2017 11:17:13 AM > Disconnected
+5/2/2017 11:17:31 AM > Connected
+5/2/2017 11:18:26 AM > Connected
+5/2/2017 11:21:05 AM > Disconnected
+5/2/2017 11:21:25 AM > Connection fail
+5/2/2017 11:21:38 AM > Connected
+5/2/2017 11:28:04 AM > Connected
+5/2/2017 11:29:50 AM > Connection fail
+5/2/2017 11:30:18 AM > Connected
+5/2/2017 11:30:19 AM > Disconnected
+5/2/2017 11:30:20 AM > Connected
+5/2/2017 11:32:36 AM > Connected
+5/2/2017 11:33:16 AM > Disconnected
+5/2/2017 11:33:25 AM > Connected
+5/2/2017 11:34:52 AM > Disconnected
+5/2/2017 11:35:01 AM > Connected
+5/2/2017 11:36:39 AM > Disconnected
+5/2/2017 11:37:01 AM > Connected
+5/2/2017 11:38:55 AM > Disconnected
+5/2/2017 11:39:13 AM > Connection fail
+5/2/2017 11:39:49 AM > Connected
+5/2/2017 11:40:48 AM > Connected
+5/2/2017 11:40:55 AM > Disconnected
+5/2/2017 11:40:59 AM > Connected
+5/2/2017 11:42:04 AM > Connected
+5/2/2017 11:43:30 AM > Connected
+5/2/2017 11:45:48 AM > Connected
+5/2/2017 11:47:04 AM > Connected
+5/2/2017 11:47:43 AM > Disconnected
+5/2/2017 11:48:12 AM > Connection fail
+5/2/2017 11:48:19 AM > Connected
+5/2/2017 11:49:24 AM > Connected
+5/2/2017 11:51:16 AM > Connected
+5/2/2017 11:51:17 AM > Disconnected
+5/2/2017 11:51:35 AM > Connected
+5/2/2017 11:53:26 AM > Connected
+5/2/2017 11:56:05 AM > Disconnected
+5/2/2017 11:56:16 AM > Connection fail
+5/2/2017 11:56:29 AM > Connected
+5/2/2017 12:05:21 PM > Disconnected
+5/2/2017 12:05:32 PM > Connected
+5/2/2017 1:14:12 PM > Disconnected
+5/2/2017 1:14:13 PM > Connected
+5/2/2017 1:16:52 PM > Connected
+5/2/2017 1:19:35 PM > Disconnected
+5/2/2017 1:19:46 PM > Connected
+5/2/2017 1:20:37 PM > Disconnected
+5/2/2017 1:21:29 PM > Connected
+5/2/2017 1:22:33 PM > Connected
+5/2/2017 1:22:54 PM > Connection fail
+5/2/2017 1:23:06 PM > Connected
+5/2/2017 1:23:06 PM > Disconnected
+5/2/2017 1:23:07 PM > Connected
+5/2/2017 1:32:49 PM > Connection fail
+5/2/2017 1:33:09 PM > Connection fail
+5/2/2017 1:33:20 PM > Connected
+5/2/2017 1:39:45 PM > Disconnected
+5/2/2017 1:40:08 PM > Connection fail
+5/2/2017 1:42:19 PM > Connection fail
+5/2/2017 1:43:12 PM > Connection fail
+5/2/2017 1:44:45 PM > Connected
+5/2/2017 1:55:28 PM > Disconnected
+5/2/2017 1:55:46 PM > Connected
+5/2/2017 2:00:56 PM > Connected
+5/2/2017 2:08:24 PM > Disconnected
+5/2/2017 2:08:43 PM > Connected
+5/2/2017 2:11:02 PM > Connection fail
+5/2/2017 2:11:29 PM > Connected
+5/2/2017 2:13:00 PM > Disconnected
+5/2/2017 2:13:23 PM > Connected
+5/2/2017 2:26:47 PM > Disconnected
+5/2/2017 2:27:16 PM > Connected
+5/2/2017 2:27:35 PM > Connected
+5/2/2017 2:28:32 PM > Disconnected
+5/2/2017 2:28:58 PM > Connected
+5/2/2017 4:07:49 PM > Connection fail
+5/2/2017 4:08:21 PM > Connection fail
+5/2/2017 4:09:30 PM > Connection fail
+5/2/2017 4:10:15 PM > Connection fail
+5/2/2017 4:11:13 PM > Connection fail
+5/2/2017 4:11:35 PM > Connected
+5/2/2017 4:12:33 PM > Connected
+5/2/2017 4:16:17 PM > SendToServer : Object reference not set to an instance of an object.
+5/2/2017 4:22:38 PM > Connected
+5/2/2017 4:30:56 PM > Connected
+5/2/2017 4:31:11 PM > Disconnected
+5/2/2017 4:31:47 PM > Connected
+5/2/2017 4:31:50 PM > Connection fail
+5/2/2017 4:35:07 PM > Disconnected
+5/2/2017 4:36:06 PM > Connection fail
+5/2/2017 4:36:16 PM > Connection fail
+5/2/2017 4:37:15 PM > Connection fail

@@ -1,0 +1,20 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.pdb
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.dll
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.pdb
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.csproj.CoreCompileInputs.cache
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.dll
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.pdb
+F:\YUMI_CODE\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.csprojAssemblyReference.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.dll
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\bin\Debug\MyPX410.pdb
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.csprojAssemblyReference.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.csproj.CoreCompileInputs.cache
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.dll
+C:\Users\Bally_Fibo\Desktop\Foundation of Robotics\Foundation of Robotics\MyPX410\obj\Debug\MyPX410.pdb

@@ -1,0 +1,10 @@
+1/15/2020 11:25:58 AM > Connection fail
+1/15/2020 11:31:21 AM > Connected
+1/15/2020 11:32:09 AM > Disconnected
+1/15/2020 11:32:12 AM > Connected
+1/15/2020 12:01:50 PM > SendToServer : Object reference not set to an instance of an object.
+1/15/2020 12:01:53 PM > SendToServer : Object reference not set to an instance of an object.
+1/15/2020 12:01:57 PM > SendToServer : Object reference not set to an instance of an object.
+1/15/2020 12:02:03 PM > SendToServer : Object reference not set to an instance of an object.
+1/15/2020 12:03:38 PM > SendToServer : Object reference not set to an instance of an object.
+1/15/2020 12:05:08 PM > Disconnected

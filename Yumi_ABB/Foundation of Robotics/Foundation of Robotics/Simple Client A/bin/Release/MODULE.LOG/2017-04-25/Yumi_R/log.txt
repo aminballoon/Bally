@@ -1,0 +1,104 @@
+4/25/2017 12:34:59 AM > [Core Multimedia BEGIN]
+4/25/2017 12:34:59 AM > Core LOOP
+4/25/2017 12:37:43 AM > Connected
+4/25/2017 12:44:50 AM > [Core Multimedia BEGIN]
+4/25/2017 12:44:50 AM > Core LOOP
+4/25/2017 12:45:28 AM > [Core Multimedia BEGIN]
+4/25/2017 12:45:28 AM > Core LOOP
+4/25/2017 12:47:34 AM > [Core Multimedia BEGIN]
+4/25/2017 12:47:34 AM > Core LOOP
+4/25/2017 12:48:15 AM > Connected
+4/25/2017 12:51:31 AM > [Core Multimedia BEGIN]
+4/25/2017 12:51:31 AM > Core LOOP
+4/25/2017 12:53:13 AM > [Core Multimedia BEGIN]
+4/25/2017 12:53:13 AM > Core LOOP
+4/25/2017 12:53:53 AM > [Core Multimedia BEGIN]
+4/25/2017 12:53:53 AM > Core LOOP
+4/25/2017 12:54:19 AM > [Core Multimedia BEGIN]
+4/25/2017 12:54:19 AM > Core LOOP
+4/25/2017 12:54:36 AM > [Core Multimedia BEGIN]
+4/25/2017 12:54:36 AM > Core LOOP
+4/25/2017 12:55:40 AM > [Core Multimedia BEGIN]
+4/25/2017 12:55:40 AM > Core LOOP
+4/25/2017 12:55:45 AM > Connected
+4/25/2017 1:24:25 AM > [Core Multimedia BEGIN]
+4/25/2017 1:24:25 AM > Core LOOP
+4/25/2017 1:24:33 AM > Connected
+4/25/2017 1:28:18 AM > [Core Multimedia BEGIN]
+4/25/2017 1:28:18 AM > Core LOOP
+4/25/2017 1:28:22 AM > Connected
+4/25/2017 1:40:34 AM > [Core Multimedia BEGIN]
+4/25/2017 1:40:34 AM > Core LOOP
+4/25/2017 1:40:44 AM > Connection fail
+4/25/2017 1:40:54 AM > Connected
+4/25/2017 9:18:17 AM > [Core Multimedia BEGIN]
+4/25/2017 9:18:17 AM > Core LOOP
+4/25/2017 9:18:36 AM > Connected
+4/25/2017 9:20:03 AM > Disconnected
+4/25/2017 9:20:15 AM > Connected
+4/25/2017 9:21:19 AM > Disconnected
+4/25/2017 9:21:39 AM > Connected
+4/25/2017 9:23:43 AM > Disconnected
+4/25/2017 9:23:49 AM > Connected
+4/25/2017 9:24:29 AM > Disconnected
+4/25/2017 9:24:36 AM > Connected
+4/25/2017 9:26:00 AM > Disconnected
+4/25/2017 9:26:10 AM > Connected
+4/25/2017 9:26:42 AM > Disconnected
+4/25/2017 9:27:10 AM > Connected
+4/25/2017 9:28:02 AM > Disconnected
+4/25/2017 9:28:18 AM > Connected
+4/25/2017 9:30:25 AM > Disconnected
+4/25/2017 9:30:45 AM > [Core Multimedia BEGIN]
+4/25/2017 9:30:45 AM > Core LOOP
+4/25/2017 9:30:48 AM > Connected
+4/25/2017 9:31:16 AM > Disconnected
+4/25/2017 9:40:41 AM > Disconnected
+4/25/2017 9:41:03 AM > Disconnected
+4/25/2017 9:43:56 AM > Disconnected
+4/25/2017 9:44:02 AM > Disconnected
+4/25/2017 12:27:31 PM > [Core Multimedia BEGIN]
+4/25/2017 12:27:31 PM > Core LOOP
+4/25/2017 12:35:41 PM > [Core Multimedia BEGIN]
+4/25/2017 12:35:41 PM > Core LOOP
+4/25/2017 12:36:02 PM > [Core Multimedia BEGIN]
+4/25/2017 12:36:02 PM > Core LOOP
+4/25/2017 12:36:09 PM > Connected
+4/25/2017 1:22:58 PM > [Core Multimedia BEGIN]
+4/25/2017 1:22:58 PM > Core LOOP
+4/25/2017 1:23:28 PM > Connected
+4/25/2017 1:39:09 PM > [Core Multimedia BEGIN]
+4/25/2017 1:39:09 PM > Core LOOP
+4/25/2017 1:39:39 PM > Connected
+4/25/2017 2:44:03 PM > [Core Multimedia BEGIN]
+4/25/2017 2:44:03 PM > Core LOOP
+4/25/2017 2:59:08 PM > [Core Multimedia BEGIN]
+4/25/2017 2:59:08 PM > Core LOOP
+4/25/2017 2:59:48 PM > [Core Multimedia BEGIN]
+4/25/2017 2:59:48 PM > Core LOOP
+4/25/2017 3:44:26 PM > [Core Multimedia BEGIN]
+4/25/2017 3:44:26 PM > Core LOOP
+4/25/2017 3:44:33 PM > Connected
+4/25/2017 3:45:03 PM > Disconnected
+4/25/2017 3:47:23 PM > [Core Multimedia BEGIN]
+4/25/2017 3:47:23 PM > Core LOOP
+4/25/2017 3:48:14 PM > [Core Multimedia BEGIN]
+4/25/2017 3:48:14 PM > Core LOOP
+4/25/2017 3:49:51 PM > [Core Multimedia BEGIN]
+4/25/2017 3:49:51 PM > Core LOOP
+4/25/2017 3:50:03 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:03 PM > Core LOOP
+4/25/2017 3:50:15 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:15 PM > Core LOOP
+4/25/2017 3:50:25 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:25 PM > Core LOOP
+4/25/2017 3:50:49 PM > [Core Multimedia BEGIN]
+4/25/2017 3:50:49 PM > Core LOOP
+4/25/2017 3:57:48 PM > [Core Multimedia BEGIN]
+4/25/2017 3:57:48 PM > Core LOOP
+4/25/2017 3:58:03 PM > [Core Multimedia BEGIN]
+4/25/2017 3:58:03 PM > Core LOOP
+4/25/2017 4:00:22 PM > [Core Multimedia BEGIN]
+4/25/2017 4:00:22 PM > Core LOOP
+4/25/2017 4:02:04 PM > [Core Multimedia BEGIN]
+4/25/2017 4:02:04 PM > Core LOOP

@@ -1,0 +1,115 @@
+5/1/2017 9:26:47 PM > Register as JAVISION
+5/1/2017 9:30:02 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:30:02 PM > 172.20.10.2:4259 force shutting down sending and receiving
+5/1/2017 9:30:02 PM > 172.20.10.2:4259 force closing connection
+5/1/2017 9:30:02 PM > End Communication Thread
+5/1/2017 9:31:01 PM > Register as JAVISION
+5/1/2017 9:31:43 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:31:43 PM > 172.20.10.2:4302 force shutting down sending and receiving
+5/1/2017 9:31:43 PM > 172.20.10.2:4302 force closing connection
+5/1/2017 9:31:43 PM > End Communication Thread
+5/1/2017 9:32:24 PM > Register as JAVISION
+5/1/2017 9:33:22 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:33:22 PM > 172.20.10.2:4325 force shutting down sending and receiving
+5/1/2017 9:33:22 PM > 172.20.10.2:4325 force closing connection
+5/1/2017 9:33:22 PM > End Communication Thread
+5/1/2017 9:34:28 PM > Register as JAVISION
+5/1/2017 9:35:09 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:35:09 PM > 172.20.10.2:4338 force shutting down sending and receiving
+5/1/2017 9:35:09 PM > 172.20.10.2:4338 force closing connection
+5/1/2017 9:35:09 PM > End Communication Thread
+5/1/2017 9:35:18 PM > Register as JAVISION
+5/1/2017 9:35:56 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:35:56 PM > 172.20.10.2:4352 force shutting down sending and receiving
+5/1/2017 9:35:56 PM > 172.20.10.2:4352 force closing connection
+5/1/2017 9:35:56 PM > End Communication Thread
+5/1/2017 9:39:07 PM > Register as JAVISION
+5/1/2017 9:45:30 PM > MyCore : A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+5/1/2017 9:45:30 PM > 172.20.10.2:4505 force shutting down sending and receiving
+5/1/2017 9:45:30 PM > 172.20.10.2:4505 force closing connection
+5/1/2017 9:45:30 PM > End Communication Thread
+5/1/2017 9:46:21 PM > Register as JAVISION
+5/1/2017 9:48:25 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 9:48:25 PM > 172.20.10.2:4680 force shutting down sending and receiving
+5/1/2017 9:48:25 PM > 172.20.10.2:4680 force closing connection
+5/1/2017 9:48:25 PM > End Communication Thread
+5/1/2017 10:17:26 PM > Register as JAVISION
+5/1/2017 10:17:42 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:17:42 PM > 172.20.10.2:5210 force shutting down sending and receiving
+5/1/2017 10:17:42 PM > 172.20.10.2:5210 force closing connection
+5/1/2017 10:17:42 PM > End Communication Thread
+5/1/2017 10:18:01 PM > Register as JAVISION
+5/1/2017 10:18:31 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:18:31 PM > 172.20.10.2:5221 force shutting down sending and receiving
+5/1/2017 10:18:31 PM > 172.20.10.2:5221 force closing connection
+5/1/2017 10:18:31 PM > End Communication Thread
+5/1/2017 10:45:40 PM > Register as JAVISION
+5/1/2017 10:46:23 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:46:23 PM > 172.20.10.2:5469 force shutting down sending and receiving
+5/1/2017 10:46:23 PM > 172.20.10.2:5469 force closing connection
+5/1/2017 10:46:23 PM > End Communication Thread
+5/1/2017 10:46:47 PM > Register as JAVISION
+5/1/2017 10:46:54 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:46:54 PM > 172.20.10.2:5480 force shutting down sending and receiving
+5/1/2017 10:46:54 PM > 172.20.10.2:5480 force closing connection
+5/1/2017 10:46:54 PM > End Communication Thread
+5/1/2017 10:47:12 PM > Register as JAVISION
+5/1/2017 10:53:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:53:27 PM > 172.20.10.2:5490 force shutting down sending and receiving
+5/1/2017 10:53:27 PM > 172.20.10.2:5490 force closing connection
+5/1/2017 10:53:27 PM > End Communication Thread
+5/1/2017 10:54:11 PM > Register as JAVISION
+5/1/2017 10:58:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:58:27 PM > 172.20.10.2:5542 force shutting down sending and receiving
+5/1/2017 10:58:27 PM > 172.20.10.2:5542 force closing connection
+5/1/2017 10:58:27 PM > End Communication Thread
+5/1/2017 10:59:35 PM > Register as JAVISION
+5/1/2017 10:59:47 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:59:47 PM > 172.20.10.2:5586 force shutting down sending and receiving
+5/1/2017 10:59:47 PM > 172.20.10.2:5586 force closing connection
+5/1/2017 10:59:47 PM > End Communication Thread
+5/1/2017 11:01:12 PM > Register as JAVISION
+5/1/2017 11:02:12 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:02:12 PM > 172.20.10.2:5604 force shutting down sending and receiving
+5/1/2017 11:02:12 PM > 172.20.10.2:5604 force closing connection
+5/1/2017 11:02:12 PM > End Communication Thread
+5/1/2017 11:02:44 PM > Register as JAVISION
+5/1/2017 11:06:32 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:06:32 PM > 172.20.10.2:5618 force shutting down sending and receiving
+5/1/2017 11:06:32 PM > 172.20.10.2:5618 force closing connection
+5/1/2017 11:06:32 PM > End Communication Thread
+5/1/2017 11:06:44 PM > Register as JAVISION
+5/1/2017 11:07:30 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:07:31 PM > 172.20.10.2:5644 force shutting down sending and receiving
+5/1/2017 11:07:31 PM > 172.20.10.2:5644 force closing connection
+5/1/2017 11:07:31 PM > End Communication Thread
+5/1/2017 11:08:25 PM > Register as JAVISION
+5/1/2017 11:08:28 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:08:28 PM > 172.20.10.2:5662 force shutting down sending and receiving
+5/1/2017 11:08:28 PM > 172.20.10.2:5662 force closing connection
+5/1/2017 11:08:28 PM > End Communication Thread
+5/1/2017 11:08:34 PM > Register as JAVISION
+5/1/2017 11:09:33 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:09:33 PM > 172.20.10.2:5668 force shutting down sending and receiving
+5/1/2017 11:09:33 PM > 172.20.10.2:5668 force closing connection
+5/1/2017 11:09:33 PM > End Communication Thread
+5/1/2017 11:13:46 PM > Register as JAVISION
+5/1/2017 11:20:21 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:20:21 PM > 172.20.10.2:5701 force shutting down sending and receiving
+5/1/2017 11:20:21 PM > 172.20.10.2:5701 force closing connection
+5/1/2017 11:20:21 PM > End Communication Thread
+5/1/2017 11:25:21 PM > Register as JAVISION
+5/1/2017 11:25:58 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:25:58 PM > 172.20.10.2:5981 force shutting down sending and receiving
+5/1/2017 11:25:58 PM > 172.20.10.2:5981 force closing connection
+5/1/2017 11:25:58 PM > End Communication Thread
+5/1/2017 11:26:43 PM > Register as JAVISION
+5/1/2017 11:27:27 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:27:27 PM > 172.20.10.2:6003 force shutting down sending and receiving
+5/1/2017 11:27:27 PM > 172.20.10.2:6003 force closing connection
+5/1/2017 11:27:27 PM > End Communication Thread
+5/1/2017 11:27:34 PM > Register as JAVISION
+5/1/2017 11:29:45 PM > MyCore : A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+5/1/2017 11:29:45 PM > 172.20.10.2:6016 force shutting down sending and receiving
+5/1/2017 11:29:45 PM > 172.20.10.2:6016 force closing connection
+5/1/2017 11:29:45 PM > End Communication Thread

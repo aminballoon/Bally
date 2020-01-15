@@ -1,0 +1,61 @@
+07-Feb-2017 16:04:27 > Register as A
+07-Feb-2017 16:05:17 > 127.0.0.1:6268 shutting down sending and receiving
+07-Feb-2017 16:05:17 > 127.0.0.1:6268 closing connection
+07-Feb-2017 16:05:17 > End Communication Thread
+07-Feb-2017 16:06:51 > Register as A
+07-Feb-2017 16:07:37 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:07:37 > 127.0.0.1:6463 force shutting down sending and receiving
+07-Feb-2017 16:07:37 > 127.0.0.1:6463 force closing connection
+07-Feb-2017 16:07:37 > End Communication Thread
+07-Feb-2017 16:08:09 > Register as A
+07-Feb-2017 16:08:14 > Register as A
+07-Feb-2017 16:08:17 > Register as A
+07-Feb-2017 16:08:17 > Register as A
+07-Feb-2017 16:08:18 > Register as A
+07-Feb-2017 16:08:18 > Register as A
+07-Feb-2017 16:08:18 > Register as A
+07-Feb-2017 16:08:18 > Register as A
+07-Feb-2017 16:08:18 > Register as A
+07-Feb-2017 16:08:23 > 127.0.0.1:6569 shutting down sending and receiving
+07-Feb-2017 16:08:23 > 127.0.0.1:6569 closing connection
+07-Feb-2017 16:08:23 > End Communication Thread
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > 127.0.0.1:6563 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6563 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > 127.0.0.1:6560 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6560 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > 127.0.0.1:6568 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6568 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > 127.0.0.1:6567 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6567 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > 127.0.0.1:6565 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6565 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > 127.0.0.1:6566 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6566 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > 127.0.0.1:6564 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6564 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:08:27 > MyCore : An existing connection was forcibly closed by the remote host
+07-Feb-2017 16:08:27 > 127.0.0.1:6561 force shutting down sending and receiving
+07-Feb-2017 16:08:27 > 127.0.0.1:6561 force closing connection
+07-Feb-2017 16:08:27 > End Communication Thread
+07-Feb-2017 16:09:22 > Register as A
+07-Feb-2017 16:10:11 > 127.0.0.1:6608 shutting down sending and receiving
+07-Feb-2017 16:10:11 > 127.0.0.1:6608 closing connection
+07-Feb-2017 16:10:11 > End Communication Thread

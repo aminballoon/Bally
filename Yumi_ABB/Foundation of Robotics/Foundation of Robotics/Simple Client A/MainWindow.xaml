@@ -1,0 +1,53 @@
+﻿<Window x:Class="Simple_Client_A.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simple_Client_A"
+        mc:Ignorable="d"
+        Title="Simple Client A" Height="400" Width="761" Closing="MyClosing">
+    <DockPanel>
+
+        <GroupBox Header="Connection" DockPanel.Dock="Top">
+            <WrapPanel>
+                <Label>NAME=</Label>
+                <TextBox x:Name="in_name" MinWidth="100">YUMIKO</TextBox>
+                <Button x:Name="bt_connect" Click="MyEvent_Click">Connect</Button>
+                <Button x:Name="bt_disconnect" Click="MyEvent_Click">Disconnect</Button>
+                <Label x:Name="label" Content="Yumiko"/>
+                <Button x:Name="btCon_LArm" Content="ConLeftArm" Width="80" Click="MyEvent_Click"/>
+                <Button x:Name="btCon_RArm" Content="ConRightArm" Width="80" Click="MyEvent_Click"/>
+                <ComboBox x:Name="cbSelect" Width="90" SelectedIndex="0">
+                    <ComboBoxItem Content="Server" HorizontalAlignment="Left" Width="92"/>
+                    <ComboBoxItem Content="YumiR" HorizontalAlignment="Left" Width="92"/>
+                    <ComboBoxItem Content="YumiL" HorizontalAlignment="Left" Width="92"/>
+                </ComboBox>
+            </WrapPanel>
+        </GroupBox>
+
+        <GroupBox Header="Convert Data" DockPanel.Dock="Bottom">
+            <StackPanel>
+                <StackPanel>
+                    <Label x:Name="disp_color">COLOR</Label>
+                    <Label x:Name="disp_position">POSITION</Label>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Data">
+            <DockPanel>
+                <GroupBox Header="Send" DockPanel.Dock="Bottom">
+                    <DockPanel>
+                        <Button x:Name="bt_send" DockPanel.Dock="Right" Click="MyEvent_Click" Height="21" VerticalAlignment="Top">SEND</Button>
+                        <TextBox x:Name="in_send" MinWidth="300" KeyDown="in_send_KeyDown"></TextBox>
+                    </DockPanel>
+                </GroupBox>
+
+                <GroupBox Header="Receive">
+                    <TextBox x:Name="disp_receive" IsReadOnly="True" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" TextWrapping="Wrap"></TextBox>
+                </GroupBox>
+            </DockPanel>
+        </GroupBox>
+
+    </DockPanel>
+</Window>

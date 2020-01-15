@@ -1,0 +1,154 @@
+5/2/2017 10:55:37 AM > Register as YUMIKO
+5/2/2017 11:12:31 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:12:31 AM > 127.0.0.1:4976 force shutting down sending and receiving
+5/2/2017 11:12:31 AM > 127.0.0.1:4976 force closing connection
+5/2/2017 11:12:31 AM > End Communication Thread
+5/2/2017 11:22:28 AM > Register as YUMIKO
+5/2/2017 11:22:47 AM > 127.0.0.1:5558 shutting down sending and receiving
+5/2/2017 11:22:47 AM > 127.0.0.1:5558 closing connection
+5/2/2017 11:22:47 AM > End Communication Thread
+5/2/2017 11:22:48 AM > Register as YUMIKO
+5/2/2017 11:27:58 AM > 127.0.0.1:5559 shutting down sending and receiving
+5/2/2017 11:27:58 AM > 127.0.0.1:5559 closing connection
+5/2/2017 11:27:58 AM > End Communication Thread
+5/2/2017 11:28:11 AM > Register as YUMIKO
+5/2/2017 11:29:09 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:29:09 AM > 127.0.0.1:5634 force shutting down sending and receiving
+5/2/2017 11:29:09 AM > 127.0.0.1:5634 force closing connection
+5/2/2017 11:29:09 AM > End Communication Thread
+5/2/2017 11:30:00 AM > Register as YUMIKO
+5/2/2017 11:32:11 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:32:11 AM > 127.0.0.1:5761 force shutting down sending and receiving
+5/2/2017 11:32:12 AM > 127.0.0.1:5761 force closing connection
+5/2/2017 11:32:12 AM > End Communication Thread
+5/2/2017 11:33:57 AM > Register as YUMIKO
+5/2/2017 11:35:04 AM > Register as YUMIKO
+5/2/2017 11:36:41 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:36:41 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:36:41 AM > 127.0.0.1:5845 force shutting down sending and receiving
+5/2/2017 11:36:41 AM > 127.0.0.1:5845 force closing connection
+5/2/2017 11:36:41 AM > End Communication Thread
+5/2/2017 11:36:41 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:36:41 AM > 127.0.0.1:5830 force shutting down sending and receiving
+5/2/2017 11:36:41 AM > 127.0.0.1:5830 force closing connection
+5/2/2017 11:36:41 AM > End Communication Thread
+5/2/2017 11:37:22 AM > Register as YUMIKO
+5/2/2017 11:39:00 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:39:00 AM > 127.0.0.1:5916 force shutting down sending and receiving
+5/2/2017 11:39:00 AM > 127.0.0.1:5916 force closing connection
+5/2/2017 11:39:00 AM > End Communication Thread
+5/2/2017 11:39:10 AM > Register as YUMIKO
+5/2/2017 11:40:34 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:40:34 AM > 127.0.0.1:5971 force shutting down sending and receiving
+5/2/2017 11:40:34 AM > 127.0.0.1:5971 force closing connection
+5/2/2017 11:40:34 AM > End Communication Thread
+5/2/2017 11:41:13 AM > Register as YUMIKO
+5/2/2017 11:41:31 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:41:31 AM > 127.0.0.1:6046 force shutting down sending and receiving
+5/2/2017 11:41:31 AM > 127.0.0.1:6046 force closing connection
+5/2/2017 11:41:31 AM > End Communication Thread
+5/2/2017 11:42:11 AM > Register as YUMIKO
+5/2/2017 11:43:11 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:43:11 AM > 127.0.0.1:6109 force shutting down sending and receiving
+5/2/2017 11:43:11 AM > 127.0.0.1:6109 force closing connection
+5/2/2017 11:43:11 AM > End Communication Thread
+5/2/2017 11:45:47 AM > Register as YUMIKO
+5/2/2017 11:46:14 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:46:14 AM > 127.0.0.1:6236 force shutting down sending and receiving
+5/2/2017 11:46:14 AM > 127.0.0.1:6236 force closing connection
+5/2/2017 11:46:14 AM > End Communication Thread
+5/2/2017 11:47:22 AM > Register as YUMIKO
+5/2/2017 11:47:47 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:47:47 AM > 127.0.0.1:6302 force shutting down sending and receiving
+5/2/2017 11:47:47 AM > 127.0.0.1:6302 force closing connection
+5/2/2017 11:47:47 AM > End Communication Thread
+5/2/2017 11:48:21 AM > Register as YUMIKO
+5/2/2017 11:49:02 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:49:02 AM > 127.0.0.1:6409 force shutting down sending and receiving
+5/2/2017 11:49:02 AM > 127.0.0.1:6409 force closing connection
+5/2/2017 11:49:02 AM > End Communication Thread
+5/2/2017 11:49:26 AM > Register as YUMIKO
+5/2/2017 11:50:16 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:50:16 AM > 127.0.0.1:6464 force shutting down sending and receiving
+5/2/2017 11:50:16 AM > 127.0.0.1:6464 force closing connection
+5/2/2017 11:50:16 AM > End Communication Thread
+5/2/2017 11:52:10 AM > Register as YUMIKO
+5/2/2017 11:52:37 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:52:37 AM > 127.0.0.1:6594 force shutting down sending and receiving
+5/2/2017 11:52:37 AM > 127.0.0.1:6594 force closing connection
+5/2/2017 11:52:37 AM > End Communication Thread
+5/2/2017 11:53:28 AM > Register as YUMIKO
+5/2/2017 11:56:10 AM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 11:56:10 AM > 127.0.0.1:6655 force shutting down sending and receiving
+5/2/2017 11:56:10 AM > 127.0.0.1:6655 force closing connection
+5/2/2017 11:56:10 AM > End Communication Thread
+5/2/2017 11:56:17 AM > Register as YUMIKO
+5/2/2017 1:15:49 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:15:49 PM > 127.0.0.1:6717 force shutting down sending and receiving
+5/2/2017 1:15:49 PM > 127.0.0.1:6717 force closing connection
+5/2/2017 1:15:49 PM > End Communication Thread
+5/2/2017 1:16:51 PM > Register as YUMIKO
+5/2/2017 1:22:21 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:22:21 PM > 127.0.0.1:7344 force shutting down sending and receiving
+5/2/2017 1:22:21 PM > 127.0.0.1:7344 force closing connection
+5/2/2017 1:22:21 PM > End Communication Thread
+5/2/2017 1:22:36 PM > Register as YUMIKO
+5/2/2017 1:22:40 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:22:40 PM > 127.0.0.1:7425 force shutting down sending and receiving
+5/2/2017 1:22:40 PM > 127.0.0.1:7425 force closing connection
+5/2/2017 1:22:40 PM > End Communication Thread
+5/2/2017 1:22:54 PM > Register as YUMIKO
+5/2/2017 1:23:02 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:23:02 PM > 127.0.0.1:7490 force shutting down sending and receiving
+5/2/2017 1:23:02 PM > 127.0.0.1:7490 force closing connection
+5/2/2017 1:23:02 PM > End Communication Thread
+5/2/2017 1:23:21 PM > Register as YUMIKO
+5/2/2017 1:24:00 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:24:00 PM > 127.0.0.1:7542 force shutting down sending and receiving
+5/2/2017 1:24:00 PM > 127.0.0.1:7542 force closing connection
+5/2/2017 1:24:00 PM > End Communication Thread
+5/2/2017 1:33:11 PM > Register as YUMIKO
+5/2/2017 1:41:59 PM > Register as YUMIKO
+5/2/2017 1:42:25 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:42:25 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:42:25 PM > 127.0.0.1:7699 force shutting down sending and receiving
+5/2/2017 1:42:25 PM > 127.0.0.1:7699 force closing connection
+5/2/2017 1:42:25 PM > End Communication Thread
+5/2/2017 1:42:25 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 1:42:25 PM > 127.0.0.1:7792 force shutting down sending and receiving
+5/2/2017 1:42:25 PM > 127.0.0.1:7792 force closing connection
+5/2/2017 1:42:25 PM > End Communication Thread
+5/2/2017 1:45:32 PM > Register as YUMIKO
+5/2/2017 1:55:22 PM > 127.0.0.1:7980 shutting down sending and receiving
+5/2/2017 1:55:22 PM > 127.0.0.1:7980 closing connection
+5/2/2017 1:55:22 PM > End Communication Thread
+5/2/2017 1:55:49 PM > Register as YUMIKO
+5/2/2017 2:00:06 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:00:06 PM > 127.0.0.1:8067 force shutting down sending and receiving
+5/2/2017 2:00:06 PM > 127.0.0.1:8067 force closing connection
+5/2/2017 2:00:06 PM > End Communication Thread
+5/2/2017 2:00:59 PM > Register as YUMIKO
+5/2/2017 2:08:47 PM > Register as YUMIKO
+5/2/2017 2:09:58 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:09:58 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:09:58 PM > 127.0.0.1:8139 force shutting down sending and receiving
+5/2/2017 2:09:58 PM > 127.0.0.1:8139 force closing connection
+5/2/2017 2:09:58 PM > End Communication Thread
+5/2/2017 2:09:58 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:09:58 PM > 127.0.0.1:8179 force shutting down sending and receiving
+5/2/2017 2:09:58 PM > 127.0.0.1:8179 force closing connection
+5/2/2017 2:09:58 PM > End Communication Thread
+5/2/2017 2:11:00 PM > Register as YUMIKO
+5/2/2017 2:27:18 PM > Register as YUMIKO
+5/2/2017 2:27:23 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:27:23 PM > 127.0.0.1:8289 shutting down sending and receiving
+5/2/2017 2:27:23 PM > 127.0.0.1:8241 force shutting down sending and receiving
+5/2/2017 2:27:23 PM > 127.0.0.1:8241 force closing connection
+5/2/2017 2:27:23 PM > End Communication Thread
+5/2/2017 2:27:23 PM > 127.0.0.1:8289 closing connection
+5/2/2017 2:27:23 PM > End Communication Thread
+5/2/2017 2:29:15 PM > Register as YUMIKO
+5/2/2017 2:37:38 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/2/2017 2:37:38 PM > 127.0.0.1:8353 force shutting down sending and receiving
+5/2/2017 2:37:38 PM > 127.0.0.1:8353 force closing connection
+5/2/2017 2:37:38 PM > End Communication Thread

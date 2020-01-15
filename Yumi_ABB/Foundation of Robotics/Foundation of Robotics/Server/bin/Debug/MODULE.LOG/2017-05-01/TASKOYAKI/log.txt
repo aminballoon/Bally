@@ -1,0 +1,16 @@
+5/1/2017 10:06:24 PM > Register as TASKOYAKI
+5/1/2017 10:09:35 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:09:35 PM > 172.20.10.6:3671 force shutting down sending and receiving
+5/1/2017 10:09:35 PM > 172.20.10.6:3671 force closing connection
+5/1/2017 10:09:35 PM > End Communication Thread
+5/1/2017 10:10:24 PM > Register as TASKOYAKI
+5/1/2017 10:13:48 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 10:13:48 PM > 172.20.10.6:3820 force shutting down sending and receiving
+5/1/2017 10:13:48 PM > 172.20.10.6:3820 force closing connection
+5/1/2017 10:13:48 PM > End Communication Thread
+5/1/2017 11:01:03 PM > Register as TASKOYAKI
+5/1/2017 11:01:25 PM > MyCore : An existing connection was forcibly closed by the remote host
+5/1/2017 11:01:25 PM > 172.20.10.6:5068 force shutting down sending and receiving
+5/1/2017 11:01:25 PM > 172.20.10.6:5068 force closing connection
+5/1/2017 11:01:25 PM > End Communication Thread
+5/1/2017 11:01:35 PM > Register as TASKOYAKI

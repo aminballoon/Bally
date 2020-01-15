@@ -1,0 +1,38 @@
+4/25/2017 12:12:27 AM > 
+==================================
+Initialize New Client
+==================================
+4/25/2017 12:12:27 AM > Create communication thread
+4/25/2017 12:12:27 AM > Start thread 3
+4/25/2017 12:12:27 AM > Start Communication Thread
+4/25/2017 12:12:27 AM > 
+==================================
+Initialize New Client
+==================================
+4/25/2017 12:12:27 AM > Create communication thread
+4/25/2017 12:12:27 AM > Start thread 4
+4/25/2017 12:12:27 AM > Start Communication Thread
+4/25/2017 12:12:27 AM > MyCore : An established connection was aborted by the software in your host machine
+4/25/2017 12:12:27 AM > 127.0.0.1:2315 force shutting down sending and receiving
+4/25/2017 12:12:27 AM > 127.0.0.1:2315 force closing connection
+4/25/2017 12:14:59 AM > 
+==================================
+Initialize New Client
+==================================
+4/25/2017 12:14:59 AM > Create communication thread
+4/25/2017 12:14:59 AM > Start thread 3
+4/25/2017 12:14:59 AM > Start Communication Thread
+4/25/2017 12:14:59 AM > 
+==================================
+Initialize New Client
+==================================
+4/25/2017 12:14:59 AM > Create communication thread
+4/25/2017 12:14:59 AM > Start thread 4
+4/25/2017 12:14:59 AM > Start Communication Thread
+4/25/2017 12:15:36 AM > 
+==================================
+Initialize New Client
+==================================
+4/25/2017 12:15:36 AM > Create communication thread
+4/25/2017 12:15:36 AM > Start thread 5
+4/25/2017 12:15:36 AM > Start Communication Thread

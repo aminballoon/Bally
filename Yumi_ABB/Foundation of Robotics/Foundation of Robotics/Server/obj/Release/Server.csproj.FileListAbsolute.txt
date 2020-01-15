@@ -1,0 +1,16 @@
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Release\Server.exe.config
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Release\Server.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Release\Server.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Release\MyPX410.dll
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\bin\Release\MyPX410.pdb
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Release\Server.exe
+D:\Documents\Developments\Visual Studio 2015\Foundation of Robotics\Server\obj\Release\Server.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\bin\Release\Server.exe.config
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\bin\Release\Server.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\bin\Release\Server.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\bin\Release\MyPX410.dll
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\bin\Release\MyPX410.pdb
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\obj\Release\Server.exe
+C:\Users\iNook\Desktop\Foundation of Robotics\Server\obj\Release\Server.pdb
